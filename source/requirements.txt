@@ -1,0 +1,12 @@
+# Python packages to render the video.
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: this only covers the Python side. You ALSO need system tools that are
+# NOT pip-installable (see README.md):
+#   - ffmpeg          (concat + audio muxing)
+#   - a LaTeX distro  (texlive / MacTeX / MiKTeX) — every label uses Tex/MathTex
+
+# Core (required to render)
+manim==0.20.1          # animation engine (pulls in numpy + Pillow as deps)
+numpy                  # vectors / math used directly in scenes
+Pillow                 # PIL.Image used directly when loading face/asset images

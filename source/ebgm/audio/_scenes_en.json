@@ -1,0 +1,82 @@
+{
+ "1": {
+  "title": "COLD OPEN & THE PROBLEM",
+  "text": "You glance at someone you know on the street, and your brain recognizes them in a tenth of a second. But how does a computer recognize a face? The problem has two branches: Verification 1:1 — 'Am I really the owner of this phone?'; and Identification 1:N — 'Who is this person among millions of records?' Today, we tackle the harder branch: 1:N identification.",
+  "chars": 360
+ },
+ "2": {
+  "title": "WHY FACE RECOGNITION IS HARD",
+  "text": "What troubles AI the most? Not the difference between two people — but the fact that the same person can look like two completely different people. When you smile, frown, or light hits from below, the pixel matrix changes entirely. This is called intra-class variance. A good algorithm must resolve this paradox: be tolerant enough to forgive one person's deformations, yet sharp enough to distinguish the tiniest details between two different people.",
+  "chars": 451
+ },
+ "3": {
+  "title": "THE PRE-DEEP-LEARNING ERA (NEW storyboard) ⭐",
+  "text": "Today, facing a face-recognition problem, what's our first instinct? Build a CNN, gather millions of images, define a loss function, and let backpropagation do the rest. But rewind to 1997. No powerful GPUs. No massive datasets. Recognizing a face under changing light or expression was nearly impossible if you only compared pixels. So how did scientists back then solve this geometric-variance problem? Not with deep learning — but with pure mathematics and signal processing. In 1997, a group published in IEEE PAMI — one of the most rigorous AI journals — an unusual idea: teach the computer to see a face the way our visual cortex does. That algorithm is Elastic Bunch Graph Matching. It once ranked among the very best in the FERET blind tests of the 1990s. Today, we dissect it.",
+  "chars": 785
+ },
+ "4": {
+  "title": "THE EBGM IDEA: THREE PILLARS",
+  "text": "EBGM is built on three pillars — unlike memorizing pixels or compressing them linearly as PCA does: One — don't see the face as a plane of pixels, but as a graph connecting landmark points. Two — at each landmark, don't take color, but extract a wavelet jet, loosely the texture DNA of that patch of skin. Three — to handle every pose, stack many sample graphs into a Face Bunch Graph. The result? A system that's highly robust to lighting, learns from fewer than a hundred sample images, and achieves astonishing accuracy.",
+  "chars": 523
+ },
+ "5": {
+  "title": "GABOR WAVELETS: THE EYES OF EBGM",
+  "text": "Let's start micro: how does the AI see a single point on a face? Instead of pixels — which are very light-sensitive — scientists borrowed from biology. They use Gabor wavelets: mathematically, a sine wave trapped inside a Gaussian envelope. It acts as a filter, capturing only wrinkles and edges at one specific orientation and frequency. The beauty: it cancels out the background-light component — it's DC-free. Just like the first layers of a CNN detect edges, the Gabor wavelet mirrors exactly how the visual cortex works.",
+  "chars": 525
+ },
+ "6": {
+  "title": "JET: 40 COMPLEX COEFFICIENTS AT A POINT",
+  "text": "Now throw the whole bank of forty Gabor wavelets — five frequencies times eight orientations — at a single point like the corner of an eye, and you get forty complex numbers. That bundle is called a jet. Think of a jet as a unique barcode of that eye corner. And since they're complex, each element carries two weapons: amplitude — telling us what shape the region has; and phase — telling us exactly which coordinate the feature sits at.",
+  "chars": 438
+ },
+ "7": {
+  "title": "COMPARING JETS: TWO SIMILARITY FUNCTIONS",
+  "text": "With two jets, how does the machine know they match? The algorithm pairs two similarity functions in beautiful harmony. The first compares only amplitude, ignoring phase. Picture it forming a smooth basin — a wide attractor — that lets the algorithm catch a signal from afar and slide toward the eye. This is the coarse step. Once very close, the second function with phase kicks in. It's razor-sharp, sensitive to the tiniest shift, pinning the exact position with sub-pixel accuracy. Better still, it points the way: it tells you how far to move the jet.",
+  "chars": 556
+ },
+ "8": {
+  "title": "IMAGE GRAPH: THE FACE AS A GRAPH",
+  "text": "Sprinkle these jets onto the landmarks — eyes, nose, mouth — and connect them… and you have an image graph. The nodes hold the texture barcode (the jet); the edges hold geometric distances. The genius key: EBGM fully separates skin surface information from bone structure, so the machine can process each independently.",
+  "chars": 319
+ },
+ "9": {
+  "title": "FACE BUNCH GRAPH",
+  "text": "But your graph can't perfectly fit my face. The solution: the Face Bunch Graph. By stacking dozens of different graphs, the eye node no longer holds one eye but a whole bunch: narrow eyes, round eyes, bespectacled eyes. Facing a stranger, the system searches the bunch and elects a local expert — the best fit for each landmark. This cross-combination yields almost limitless coverage.",
+  "chars": 385
+ },
+ "10": {
+  "title": "THE GRAPH SIMILARITY FUNCTION",
+  "text": "How do we know the graph is correctly fitted? EBGM solves an optimization with a very familiar objective — a tug of war. On one side it rewards jet similarity. On the other it penalizes geometric distortion of the edges, scaled by lambda. If you force the nose point up onto the forehead to match texture, the connecting edge stretches — and the algorithm hits you with an enormous penalty.",
+  "chars": 390
+ },
+ "11": {
+  "title": "ELASTIC MATCHING: 4 STEPS ⭐",
+  "text": "And here it is — the heart of the algorithm: elastic matching, going from rigid to supple. First, the graph is a rigid block, sliding across the image to locate the face. Then it scales globally to match size, and stretches width and height for the right aspect ratio. But the magic is the final step — the word Elastic: the graph is released. Each node crawls freely, nudging bit by bit toward its true landmark on the image, while the edges act as springs holding the structure from breaking apart. The whole thing runs in two phases: normalization — crop the face to a standard 128×128; then recognition — extract the final detailed graph.",
+  "chars": 642
+ },
+ "12": {
+  "title": "RECOGNITION: MATCH & RANK",
+  "text": "Once the elastic grid is locked onto the new face — the probe — recognition is featherlight. Carry this grid and compare it against each person in the gallery. Now we drop phase and use amplitude only, because amplitude is more robust to changes in expression and smiles. Score, rank — and whoever lands at rank 1 is the identity you're looking for.",
+  "chars": 349
+ },
+ "13": {
+  "title": "EXPERIMENTS: DATA & FERET RESULTS",
+  "text": "Beautiful theory, but how about reality? In the US government's tough FERET test, EBGM was given exactly one image per person in the database. The results? Same frontal pose: ninety-eight percent. Same profile pose — mirrored left–right: eighty-four. Same half-profile angle: fifty-seven. But if the gallery is frontal while the probe is turned at an angle, it drops sharply to just eighteen percent. Clearly: EBGM is king at handling changes in expression or lighting, but large 3D rotation remains its Achilles' heel.",
+  "chars": 519
+ },
+ "14": {
+  "title": "CROSS-POSE, THE ROLE OF PHASE & SPEED",
+  "text": "However, at small rotation angles — eleven degrees, twenty-two degrees — thanks to the graph's flexibility, accuracy holds from ninety-four down to eighty-eight percent. And is the phase of the wave really necessary? Experiments show: drop phase, and landmark localization drifts by over 5.2 pixels, dragging recognition down to sixty-seven. Keep phase: error is only 1.6 pixels, and recognition jumps to eighty-eight. Phase is the anchor that saves the whole system! On top of that, separating extraction from matching makes EBGM about a thousand times faster than its predecessor architectures — fast enough even for large databases.",
+  "chars": 635
+ },
+ "15": {
+  "title": "EBGM IN THE BIG PICTURE",
+  "text": "Zoom out, and EBGM solves a broad class of problems: in-class recognition under variance — whether human faces, animals, or vehicles. Unlike PCA, which is wrecked across the whole image by a single pair of sunglasses, EBGM compartmentalizes risk: glasses? Only the eye jets are disturbed; the rest stay safe. True, it has limits — weak beyond 22 degrees of rotation, fragile when landmarks are occluded. But as an algorithm that needs no massive training, EBGM did exceptionally well.",
+  "chars": 484
+ },
+ "16": {
+  "title": "CONCLUSION",
+  "text": "Elastic Bunch Graph Matching is a symphony of local signal processing — wavelets — and spatial geometry — graphs. Although deep learning now wears the crown, EBGM's philosophy of elastic landmarks still lives on in modern face-detection architectures. Local. Elastic. General. Thank you for watching — see you in the next algorithm video!",
+  "chars": 338
+ }
+}

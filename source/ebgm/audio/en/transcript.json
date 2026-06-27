@@ -1,0 +1,7266 @@
+{
+  "model": "large-v3-turbo",
+  "language": "en",
+  "scenes": [
+    {
+      "scene": "scene_01",
+      "file": "audio/en/scene_01.mp3",
+      "duration": 25.728,
+      "text": "You glance at someone you know on the street, and your brain recognizes them in a tenth of a second. But how does a computer recognize a face? The problem has two branches. Verification 1:1. Am I really the owner of this phone? And identification 1:N. Who is this person among millions of records? Today we tackle the harder branch. 1:N identification.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.3,
+          "text": "You glance at someone you know on the street, and your brain recognizes them in a tenth of a second."
+        },
+        {
+          "start": 4.6,
+          "end": 6.86,
+          "text": "But how does a computer recognize a face?"
+        },
+        {
+          "start": 7.48,
+          "end": 9.06,
+          "text": "The problem has two branches."
+        },
+        {
+          "start": 9.9,
+          "end": 11.5,
+          "text": "Verification 1:1."
+        },
+        {
+          "start": 11.96,
+          "end": 13.94,
+          "text": "Am I really the owner of this phone?"
+        },
+        {
+          "start": 14.88,
+          "end": 17.02,
+          "text": "And identification 1:N."
+        },
+        {
+          "start": 17.64,
+          "end": 20.06,
+          "text": "Who is this person among millions of records?"
+        },
+        {
+          "start": 21.0,
+          "end": 22.86,
+          "text": "Today we tackle the harder branch."
+        },
+        {
+          "start": 23.14,
+          "end": 24.34,
+          "text": "1:N identification."
+        }
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "glance",
+          "start": 0.16,
+          "end": 0.46
+        },
+        {
+          "word": "at",
+          "start": 0.46,
+          "end": 0.66
+        },
+        {
+          "word": "someone",
+          "start": 0.66,
+          "end": 0.94
+        },
+        {
+          "word": "you",
+          "start": 0.94,
+          "end": 1.1
+        },
+        {
+          "word": "know",
+          "start": 1.1,
+          "end": 1.22
+        },
+        {
+          "word": "on",
+          "start": 1.22,
+          "end": 1.36
+        },
+        {
+          "word": "the",
+          "start": 1.36,
+          "end": 1.48
+        },
+        {
+          "word": "street,",
+          "start": 1.48,
+          "end": 1.72
+        },
+        {
+          "word": "and",
+          "start": 1.8,
+          "end": 2.02
+        },
+        {
+          "word": "your",
+          "start": 2.02,
+          "end": 2.16
+        },
+        {
+          "word": "brain",
+          "start": 2.16,
+          "end": 2.42
+        },
+        {
+          "word": "recognizes",
+          "start": 2.42,
+          "end": 3.02
+        },
+        {
+          "word": "them",
+          "start": 3.02,
+          "end": 3.32
+        },
+        {
+          "word": "in",
+          "start": 3.32,
+          "end": 3.48
+        },
+        {
+          "word": "a",
+          "start": 3.48,
+          "end": 3.6
+        },
+        {
+          "word": "tenth",
+          "start": 3.6,
+          "end": 3.74
+        },
+        {
+          "word": "of",
+          "start": 3.74,
+          "end": 3.92
+        },
+        {
+          "word": "a",
+          "start": 3.92,
+          "end": 4.04
+        },
+        {
+          "word": "second.",
+          "start": 4.04,
+          "end": 4.3
+        },
+        {
+          "word": "But",
+          "start": 4.6,
+          "end": 5.12
+        },
+        {
+          "word": "how",
+          "start": 5.12,
+          "end": 5.24
+        },
+        {
+          "word": "does",
+          "start": 5.24,
+          "end": 5.38
+        },
+        {
+          "word": "a",
+          "start": 5.38,
+          "end": 5.48
+        },
+        {
+          "word": "computer",
+          "start": 5.48,
+          "end": 5.8
+        },
+        {
+          "word": "recognize",
+          "start": 5.8,
+          "end": 6.28
+        },
+        {
+          "word": "a",
+          "start": 6.28,
+          "end": 6.48
+        },
+        {
+          "word": "face?",
+          "start": 6.48,
+          "end": 6.86
+        },
+        {
+          "word": "The",
+          "start": 7.48,
+          "end": 8.0
+        },
+        {
+          "word": "problem",
+          "start": 8.0,
+          "end": 8.26
+        },
+        {
+          "word": "has",
+          "start": 8.26,
+          "end": 8.48
+        },
+        {
+          "word": "two",
+          "start": 8.48,
+          "end": 8.66
+        },
+        {
+          "word": "branches.",
+          "start": 8.66,
+          "end": 9.06
+        },
+        {
+          "word": "Verification",
+          "start": 9.9,
+          "end": 10.42
+        },
+        {
+          "word": "1",
+          "start": 10.42,
+          "end": 10.9
+        },
+        {
+          "word": ".1.",
+          "start": 10.9,
+          "end": 11.5
+        },
+        {
+          "word": "Am",
+          "start": 11.96,
+          "end": 12.48
+        },
+        {
+          "word": "I",
+          "start": 12.48,
+          "end": 12.62
+        },
+        {
+          "word": "really",
+          "start": 12.62,
+          "end": 12.88
+        },
+        {
+          "word": "the",
+          "start": 12.88,
+          "end": 13.06
+        },
+        {
+          "word": "owner",
+          "start": 13.06,
+          "end": 13.3
+        },
+        {
+          "word": "of",
+          "start": 13.3,
+          "end": 13.46
+        },
+        {
+          "word": "this",
+          "start": 13.46,
+          "end": 13.62
+        },
+        {
+          "word": "phone?",
+          "start": 13.62,
+          "end": 13.94
+        },
+        {
+          "word": "And",
+          "start": 14.88,
+          "end": 15.4
+        },
+        {
+          "word": "identification",
+          "start": 15.4,
+          "end": 15.92
+        },
+        {
+          "word": "1",
+          "start": 15.92,
+          "end": 16.76
+        },
+        {
+          "word": ".0.",
+          "start": 16.76,
+          "end": 17.02
+        },
+        {
+          "word": "Who",
+          "start": 17.64,
+          "end": 18.16
+        },
+        {
+          "word": "is",
+          "start": 18.16,
+          "end": 18.34
+        },
+        {
+          "word": "this",
+          "start": 18.34,
+          "end": 18.52
+        },
+        {
+          "word": "person",
+          "start": 18.52,
+          "end": 18.88
+        },
+        {
+          "word": "among",
+          "start": 18.88,
+          "end": 19.12
+        },
+        {
+          "word": "millions",
+          "start": 19.12,
+          "end": 19.54
+        },
+        {
+          "word": "of",
+          "start": 19.54,
+          "end": 19.72
+        },
+        {
+          "word": "records?",
+          "start": 19.72,
+          "end": 20.06
+        },
+        {
+          "word": "Today",
+          "start": 21.0,
+          "end": 21.52
+        },
+        {
+          "word": "we",
+          "start": 21.52,
+          "end": 21.7
+        },
+        {
+          "word": "tackle",
+          "start": 21.7,
+          "end": 22.0
+        },
+        {
+          "word": "the",
+          "start": 22.0,
+          "end": 22.16
+        },
+        {
+          "word": "harder",
+          "start": 22.16,
+          "end": 22.4
+        },
+        {
+          "word": "branch.",
+          "start": 22.4,
+          "end": 22.86
+        },
+        {
+          "word": "1",
+          "start": 23.14,
+          "end": 23.6
+        },
+        {
+          "word": ".0",
+          "start": 23.6,
+          "end": 23.82
+        },
+        {
+          "word": "identification.",
+          "start": 23.82,
+          "end": 24.34
+        }
+      ]
+    },
+    {
+      "scene": "scene_02",
+      "file": "audio/en/scene_02.mp3",
+      "duration": 29.211,
+      "text": "What troubles AI the most? Not the difference between two people, but the fact that the same person can look like two completely different people. When you smile, frown, or light hits from below, the pixel matrix changes entirely. This is called intraclass variance. A good algorithm must resolve this paradox. Be tolerant enough to forgive one person's deformations, yet sharp enough to distinguish the tiniest details between two different people.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.38,
+          "text": "What troubles AI the most?"
+        },
+        {
+          "start": 1.88,
+          "end": 3.8,
+          "text": "Not the difference between two people,"
+        },
+        {
+          "start": 4.54,
+          "end": 8.54,
+          "text": "but the fact that the same person can look like two completely different people."
+        },
+        {
+          "start": 9.2,
+          "end": 12.4,
+          "text": "When you smile, frown, or light hits from below,"
+        },
+        {
+          "start": 12.68,
+          "end": 14.58,
+          "text": "the pixel matrix changes entirely."
+        },
+        {
+          "start": 15.42,
+          "end": 17.4,
+          "text": "This is called intraclass variance."
+        },
+        {
+          "start": 18.08,
+          "end": 20.62,
+          "text": "A good algorithm must resolve this paradox."
+        },
+        {
+          "start": 21.06,
+          "end": 24.5,
+          "text": "Be tolerant enough to forgive one person's deformations,"
+        },
+        {
+          "start": 24.72,
+          "end": 28.72,
+          "text": "yet sharp enough to distinguish the tiniest details between two different people."
+        }
+      ],
+      "words": [
+        {
+          "word": "What",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "word": "troubles",
+          "start": 0.2,
+          "end": 0.52
+        },
+        {
+          "word": "AI",
+          "start": 0.52,
+          "end": 0.82
+        },
+        {
+          "word": "the",
+          "start": 0.82,
+          "end": 1.04
+        },
+        {
+          "word": "most?",
+          "start": 1.04,
+          "end": 1.38
+        },
+        {
+          "word": "Not",
+          "start": 1.88,
+          "end": 2.48
+        },
+        {
+          "word": "the",
+          "start": 2.48,
+          "end": 2.6
+        },
+        {
+          "word": "difference",
+          "start": 2.6,
+          "end": 2.9
+        },
+        {
+          "word": "between",
+          "start": 2.9,
+          "end": 3.16
+        },
+        {
+          "word": "two",
+          "start": 3.16,
+          "end": 3.42
+        },
+        {
+          "word": "people,",
+          "start": 3.42,
+          "end": 3.8
+        },
+        {
+          "word": "but",
+          "start": 4.54,
+          "end": 5.14
+        },
+        {
+          "word": "the",
+          "start": 5.14,
+          "end": 5.26
+        },
+        {
+          "word": "fact",
+          "start": 5.26,
+          "end": 5.5
+        },
+        {
+          "word": "that",
+          "start": 5.5,
+          "end": 5.66
+        },
+        {
+          "word": "the",
+          "start": 5.66,
+          "end": 5.78
+        },
+        {
+          "word": "same",
+          "start": 5.78,
+          "end": 6.0
+        },
+        {
+          "word": "person",
+          "start": 6.0,
+          "end": 6.42
+        },
+        {
+          "word": "can",
+          "start": 6.42,
+          "end": 6.7
+        },
+        {
+          "word": "look",
+          "start": 6.7,
+          "end": 6.88
+        },
+        {
+          "word": "like",
+          "start": 6.88,
+          "end": 7.04
+        },
+        {
+          "word": "two",
+          "start": 7.04,
+          "end": 7.32
+        },
+        {
+          "word": "completely",
+          "start": 7.32,
+          "end": 7.86
+        },
+        {
+          "word": "different",
+          "start": 7.86,
+          "end": 8.16
+        },
+        {
+          "word": "people.",
+          "start": 8.16,
+          "end": 8.54
+        },
+        {
+          "word": "When",
+          "start": 9.2,
+          "end": 9.8
+        },
+        {
+          "word": "you",
+          "start": 9.8,
+          "end": 9.9
+        },
+        {
+          "word": "smile,",
+          "start": 9.9,
+          "end": 10.3
+        },
+        {
+          "word": "frown,",
+          "start": 10.54,
+          "end": 11.12
+        },
+        {
+          "word": "or",
+          "start": 11.24,
+          "end": 11.3
+        },
+        {
+          "word": "light",
+          "start": 11.3,
+          "end": 11.58
+        },
+        {
+          "word": "hits",
+          "start": 11.58,
+          "end": 11.9
+        },
+        {
+          "word": "from",
+          "start": 11.9,
+          "end": 12.1
+        },
+        {
+          "word": "below,",
+          "start": 12.1,
+          "end": 12.4
+        },
+        {
+          "word": "the",
+          "start": 12.68,
+          "end": 13.04
+        },
+        {
+          "word": "pixel",
+          "start": 13.04,
+          "end": 13.32
+        },
+        {
+          "word": "matrix",
+          "start": 13.32,
+          "end": 13.64
+        },
+        {
+          "word": "changes",
+          "start": 13.64,
+          "end": 14.1
+        },
+        {
+          "word": "entirely.",
+          "start": 14.1,
+          "end": 14.58
+        },
+        {
+          "word": "This",
+          "start": 15.42,
+          "end": 16.02
+        },
+        {
+          "word": "is",
+          "start": 16.02,
+          "end": 16.14
+        },
+        {
+          "word": "called",
+          "start": 16.14,
+          "end": 16.36
+        },
+        {
+          "word": "intraclass",
+          "start": 16.36,
+          "end": 16.98
+        },
+        {
+          "word": "variance.",
+          "start": 16.98,
+          "end": 17.4
+        },
+        {
+          "word": "A",
+          "start": 18.08,
+          "end": 18.68
+        },
+        {
+          "word": "good",
+          "start": 18.68,
+          "end": 18.84
+        },
+        {
+          "word": "algorithm",
+          "start": 18.84,
+          "end": 19.28
+        },
+        {
+          "word": "must",
+          "start": 19.28,
+          "end": 19.58
+        },
+        {
+          "word": "resolve",
+          "start": 19.58,
+          "end": 19.9
+        },
+        {
+          "word": "this",
+          "start": 19.9,
+          "end": 20.12
+        },
+        {
+          "word": "paradox.",
+          "start": 20.12,
+          "end": 20.62
+        },
+        {
+          "word": "Be",
+          "start": 21.06,
+          "end": 21.66
+        },
+        {
+          "word": "tolerant",
+          "start": 21.66,
+          "end": 22.08
+        },
+        {
+          "word": "enough",
+          "start": 22.08,
+          "end": 22.42
+        },
+        {
+          "word": "to",
+          "start": 22.42,
+          "end": 22.62
+        },
+        {
+          "word": "forgive",
+          "start": 22.62,
+          "end": 22.9
+        },
+        {
+          "word": "one",
+          "start": 22.9,
+          "end": 23.2
+        },
+        {
+          "word": "person's",
+          "start": 23.2,
+          "end": 23.72
+        },
+        {
+          "word": "deformations,",
+          "start": 23.72,
+          "end": 24.5
+        },
+        {
+          "word": "yet",
+          "start": 24.72,
+          "end": 25.14
+        },
+        {
+          "word": "sharp",
+          "start": 25.14,
+          "end": 25.44
+        },
+        {
+          "word": "enough",
+          "start": 25.44,
+          "end": 25.68
+        },
+        {
+          "word": "to",
+          "start": 25.68,
+          "end": 25.86
+        },
+        {
+          "word": "distinguish",
+          "start": 25.86,
+          "end": 26.28
+        },
+        {
+          "word": "the",
+          "start": 26.28,
+          "end": 26.58
+        },
+        {
+          "word": "tiniest",
+          "start": 26.58,
+          "end": 27.06
+        },
+        {
+          "word": "details",
+          "start": 27.06,
+          "end": 27.5
+        },
+        {
+          "word": "between",
+          "start": 27.5,
+          "end": 27.82
+        },
+        {
+          "word": "two",
+          "start": 27.82,
+          "end": 28.14
+        },
+        {
+          "word": "different",
+          "start": 28.14,
+          "end": 28.4
+        },
+        {
+          "word": "people.",
+          "start": 28.4,
+          "end": 28.72
+        }
+      ]
+    },
+    {
+      "scene": "scene_03",
+      "file": "audio/en/scene_03.mp3",
+      "duration": 57.214,
+      "text": "Today, facing a face recognition problem, what's our first instinct? Build a CNN, gather millions of images, define a loss function, and let backpropagation do the rest. But rewind to 1997. No powerful GPUs. No massive data sets. Recognizing a face under changing light or expression was nearly impossible if you only compared pixels. So how did scientists back then solve this geometric variance problem? Not with deep learning, but with pure mathematics and signal processing. In 1997, a group published in IEEE PAMI, one of the most rigorous AI journals, an unusual idea, teach the computer to see a face the way our visual cortex does. That algorithm is elastic bunch graph matching. It once ranked among the very best in the FERET blind tests of the 1990s. Today, we dissect it.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.22,
+          "text": "Today, facing a face recognition problem, what's our first instinct?"
+        },
+        {
+          "start": 4.96,
+          "end": 12.26,
+          "text": "Build a CNN, gather millions of images, define a loss function, and let backpropagation do the rest."
+        },
+        {
+          "start": 12.66,
+          "end": 14.5,
+          "text": "But rewind to 1997."
+        },
+        {
+          "start": 15.18,
+          "end": 17.06,
+          "text": "No powerful GPUs."
+        },
+        {
+          "start": 17.24,
+          "end": 18.74,
+          "text": "No massive data sets."
+        },
+        {
+          "start": 19.38,
+          "end": 24.7,
+          "text": "Recognizing a face under changing light or expression was nearly impossible if you only compared pixels."
+        },
+        {
+          "start": 25.34,
+          "end": 29.16,
+          "text": "So how did scientists back then solve this geometric variance problem?"
+        },
+        {
+          "start": 29.16,
+          "end": 33.8,
+          "text": "Not with deep learning, but with pure mathematics and signal processing."
+        },
+        {
+          "start": 34.7,
+          "end": 42.6,
+          "text": "In 1997, a group published in IEEE PAMI, one of the most rigorous AI journals, an unusual idea,"
+        },
+        {
+          "start": 43.26,
+          "end": 46.44,
+          "text": "teach the computer to see a face the way our visual cortex does."
+        },
+        {
+          "start": 47.06,
+          "end": 50.06,
+          "text": "That algorithm is elastic bunch graph matching."
+        },
+        {
+          "start": 50.46,
+          "end": 54.94,
+          "text": "It once ranked among the very best in the FERET blind tests of the 1990s."
+        },
+        {
+          "start": 55.26,
+          "end": 56.86,
+          "text": "Today, we dissect it."
+        }
+      ],
+      "words": [
+        {
+          "word": "Today,",
+          "start": 0.0,
+          "end": 0.28
+        },
+        {
+          "word": "facing",
+          "start": 0.68,
+          "end": 1.16
+        },
+        {
+          "word": "a",
+          "start": 1.16,
+          "end": 1.32
+        },
+        {
+          "word": "face",
+          "start": 1.32,
+          "end": 1.58
+        },
+        {
+          "word": "recognition",
+          "start": 1.58,
+          "end": 2.02
+        },
+        {
+          "word": "problem,",
+          "start": 2.02,
+          "end": 2.46
+        },
+        {
+          "word": "what's",
+          "start": 2.78,
+          "end": 3.34
+        },
+        {
+          "word": "our",
+          "start": 3.34,
+          "end": 3.44
+        },
+        {
+          "word": "first",
+          "start": 3.44,
+          "end": 3.74
+        },
+        {
+          "word": "instinct?",
+          "start": 3.74,
+          "end": 4.22
+        },
+        {
+          "word": "Build",
+          "start": 4.96,
+          "end": 5.72
+        },
+        {
+          "word": "a",
+          "start": 5.72,
+          "end": 5.88
+        },
+        {
+          "word": "CNN,",
+          "start": 5.88,
+          "end": 6.24
+        },
+        {
+          "word": "gather",
+          "start": 6.72,
+          "end": 7.18
+        },
+        {
+          "word": "millions",
+          "start": 7.18,
+          "end": 7.6
+        },
+        {
+          "word": "of",
+          "start": 7.6,
+          "end": 7.78
+        },
+        {
+          "word": "images,",
+          "start": 7.78,
+          "end": 8.16
+        },
+        {
+          "word": "define",
+          "start": 8.68,
+          "end": 8.94
+        },
+        {
+          "word": "a",
+          "start": 8.94,
+          "end": 9.08
+        },
+        {
+          "word": "loss",
+          "start": 9.08,
+          "end": 9.32
+        },
+        {
+          "word": "function,",
+          "start": 9.32,
+          "end": 9.74
+        },
+        {
+          "word": "and",
+          "start": 10.0,
+          "end": 10.52
+        },
+        {
+          "word": "let",
+          "start": 10.52,
+          "end": 10.72
+        },
+        {
+          "word": "backpropagation",
+          "start": 10.72,
+          "end": 11.56
+        },
+        {
+          "word": "do",
+          "start": 11.56,
+          "end": 11.76
+        },
+        {
+          "word": "the",
+          "start": 11.76,
+          "end": 11.88
+        },
+        {
+          "word": "rest.",
+          "start": 11.88,
+          "end": 12.26
+        },
+        {
+          "word": "But",
+          "start": 12.66,
+          "end": 13.18
+        },
+        {
+          "word": "rewind",
+          "start": 13.18,
+          "end": 13.54
+        },
+        {
+          "word": "to",
+          "start": 13.54,
+          "end": 13.74
+        },
+        {
+          "word": "1997.",
+          "start": 13.74,
+          "end": 14.5
+        },
+        {
+          "word": "No",
+          "start": 15.18,
+          "end": 15.68
+        },
+        {
+          "word": "powerful",
+          "start": 15.68,
+          "end": 16.16
+        },
+        {
+          "word": "GPUs.",
+          "start": 16.16,
+          "end": 17.06
+        },
+        {
+          "word": "No",
+          "start": 17.24,
+          "end": 17.68
+        },
+        {
+          "word": "massive",
+          "start": 17.68,
+          "end": 18.08
+        },
+        {
+          "word": "data",
+          "start": 18.08,
+          "end": 18.3
+        },
+        {
+          "word": "sets.",
+          "start": 18.3,
+          "end": 18.74
+        },
+        {
+          "word": "Recognizing",
+          "start": 19.38,
+          "end": 20.14
+        },
+        {
+          "word": "a",
+          "start": 20.14,
+          "end": 20.26
+        },
+        {
+          "word": "face",
+          "start": 20.26,
+          "end": 20.6
+        },
+        {
+          "word": "under",
+          "start": 20.6,
+          "end": 20.82
+        },
+        {
+          "word": "changing",
+          "start": 20.82,
+          "end": 21.22
+        },
+        {
+          "word": "light",
+          "start": 21.22,
+          "end": 21.52
+        },
+        {
+          "word": "or",
+          "start": 21.52,
+          "end": 21.64
+        },
+        {
+          "word": "expression",
+          "start": 21.64,
+          "end": 22.06
+        },
+        {
+          "word": "was",
+          "start": 22.06,
+          "end": 22.42
+        },
+        {
+          "word": "nearly",
+          "start": 22.42,
+          "end": 22.66
+        },
+        {
+          "word": "impossible",
+          "start": 22.66,
+          "end": 23.2
+        },
+        {
+          "word": "if",
+          "start": 23.2,
+          "end": 23.56
+        },
+        {
+          "word": "you",
+          "start": 23.56,
+          "end": 23.66
+        },
+        {
+          "word": "only",
+          "start": 23.66,
+          "end": 23.92
+        },
+        {
+          "word": "compared",
+          "start": 23.92,
+          "end": 24.28
+        },
+        {
+          "word": "pixels.",
+          "start": 24.28,
+          "end": 24.7
+        },
+        {
+          "word": "So",
+          "start": 25.34,
+          "end": 25.94
+        },
+        {
+          "word": "how",
+          "start": 25.94,
+          "end": 26.14
+        },
+        {
+          "word": "did",
+          "start": 26.14,
+          "end": 26.3
+        },
+        {
+          "word": "scientists",
+          "start": 26.3,
+          "end": 26.8
+        },
+        {
+          "word": "back",
+          "start": 26.8,
+          "end": 27.08
+        },
+        {
+          "word": "then",
+          "start": 27.08,
+          "end": 27.32
+        },
+        {
+          "word": "solve",
+          "start": 27.32,
+          "end": 27.64
+        },
+        {
+          "word": "this",
+          "start": 27.64,
+          "end": 27.84
+        },
+        {
+          "word": "geometric",
+          "start": 27.84,
+          "end": 28.3
+        },
+        {
+          "word": "variance",
+          "start": 28.3,
+          "end": 28.76
+        },
+        {
+          "word": "problem?",
+          "start": 28.76,
+          "end": 29.16
+        },
+        {
+          "word": "Not",
+          "start": 29.16,
+          "end": 30.38
+        },
+        {
+          "word": "with",
+          "start": 30.38,
+          "end": 30.52
+        },
+        {
+          "word": "deep",
+          "start": 30.52,
+          "end": 30.72
+        },
+        {
+          "word": "learning,",
+          "start": 30.72,
+          "end": 31.06
+        },
+        {
+          "word": "but",
+          "start": 31.36,
+          "end": 31.78
+        },
+        {
+          "word": "with",
+          "start": 31.78,
+          "end": 31.92
+        },
+        {
+          "word": "pure",
+          "start": 31.92,
+          "end": 32.16
+        },
+        {
+          "word": "mathematics",
+          "start": 32.16,
+          "end": 32.62
+        },
+        {
+          "word": "and",
+          "start": 32.62,
+          "end": 33.02
+        },
+        {
+          "word": "signal",
+          "start": 33.02,
+          "end": 33.32
+        },
+        {
+          "word": "processing.",
+          "start": 33.32,
+          "end": 33.8
+        },
+        {
+          "word": "In",
+          "start": 34.7,
+          "end": 35.02
+        },
+        {
+          "word": "1997,",
+          "start": 35.02,
+          "end": 35.68
+        },
+        {
+          "word": "a",
+          "start": 36.22,
+          "end": 36.66
+        },
+        {
+          "word": "group",
+          "start": 36.66,
+          "end": 36.84
+        },
+        {
+          "word": "published",
+          "start": 36.84,
+          "end": 37.22
+        },
+        {
+          "word": "in",
+          "start": 37.22,
+          "end": 37.44
+        },
+        {
+          "word": "IEE",
+          "start": 37.44,
+          "end": 38.24
+        },
+        {
+          "word": "PAMI,",
+          "start": 38.24,
+          "end": 38.88
+        },
+        {
+          "word": "one",
+          "start": 39.1,
+          "end": 39.6
+        },
+        {
+          "word": "of",
+          "start": 39.6,
+          "end": 39.68
+        },
+        {
+          "word": "the",
+          "start": 39.68,
+          "end": 39.76
+        },
+        {
+          "word": "most",
+          "start": 39.76,
+          "end": 40.0
+        },
+        {
+          "word": "rigorous",
+          "start": 40.0,
+          "end": 40.4
+        },
+        {
+          "word": "AI",
+          "start": 40.4,
+          "end": 40.7
+        },
+        {
+          "word": "journals,",
+          "start": 40.7,
+          "end": 41.18
+        },
+        {
+          "word": "an",
+          "start": 41.6,
+          "end": 41.8
+        },
+        {
+          "word": "unusual",
+          "start": 41.8,
+          "end": 42.14
+        },
+        {
+          "word": "idea,",
+          "start": 42.14,
+          "end": 42.6
+        },
+        {
+          "word": "teach",
+          "start": 43.26,
+          "end": 43.5
+        },
+        {
+          "word": "the",
+          "start": 43.5,
+          "end": 43.68
+        },
+        {
+          "word": "computer",
+          "start": 43.68,
+          "end": 44.02
+        },
+        {
+          "word": "to",
+          "start": 44.02,
+          "end": 44.26
+        },
+        {
+          "word": "see",
+          "start": 44.26,
+          "end": 44.44
+        },
+        {
+          "word": "a",
+          "start": 44.44,
+          "end": 44.58
+        },
+        {
+          "word": "face",
+          "start": 44.58,
+          "end": 44.9
+        },
+        {
+          "word": "the",
+          "start": 44.9,
+          "end": 45.06
+        },
+        {
+          "word": "way",
+          "start": 45.06,
+          "end": 45.18
+        },
+        {
+          "word": "our",
+          "start": 45.18,
+          "end": 45.32
+        },
+        {
+          "word": "visual",
+          "start": 45.32,
+          "end": 45.64
+        },
+        {
+          "word": "cortex",
+          "start": 45.64,
+          "end": 46.04
+        },
+        {
+          "word": "does.",
+          "start": 46.04,
+          "end": 46.44
+        },
+        {
+          "word": "That",
+          "start": 47.06,
+          "end": 47.7
+        },
+        {
+          "word": "algorithm",
+          "start": 47.7,
+          "end": 48.14
+        },
+        {
+          "word": "is",
+          "start": 48.14,
+          "end": 48.44
+        },
+        {
+          "word": "elastic",
+          "start": 48.44,
+          "end": 48.86
+        },
+        {
+          "word": "bunch",
+          "start": 48.86,
+          "end": 49.2
+        },
+        {
+          "word": "graph",
+          "start": 49.2,
+          "end": 49.56
+        },
+        {
+          "word": "matching.",
+          "start": 49.56,
+          "end": 50.06
+        },
+        {
+          "word": "It",
+          "start": 50.46,
+          "end": 50.92
+        },
+        {
+          "word": "once",
+          "start": 50.92,
+          "end": 51.18
+        },
+        {
+          "word": "ranked",
+          "start": 51.18,
+          "end": 51.5
+        },
+        {
+          "word": "among",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "word": "the",
+          "start": 51.7,
+          "end": 51.88
+        },
+        {
+          "word": "very",
+          "start": 51.88,
+          "end": 52.12
+        },
+        {
+          "word": "best",
+          "start": 52.12,
+          "end": 52.44
+        },
+        {
+          "word": "in",
+          "start": 52.44,
+          "end": 52.68
+        },
+        {
+          "word": "the",
+          "start": 52.68,
+          "end": 52.78
+        },
+        {
+          "word": "ferret",
+          "start": 52.78,
+          "end": 53.1
+        },
+        {
+          "word": "blind",
+          "start": 53.1,
+          "end": 53.3
+        },
+        {
+          "word": "tests",
+          "start": 53.3,
+          "end": 53.74
+        },
+        {
+          "word": "of",
+          "start": 53.74,
+          "end": 53.92
+        },
+        {
+          "word": "the",
+          "start": 53.92,
+          "end": 54.02
+        },
+        {
+          "word": "1990s.",
+          "start": 54.02,
+          "end": 54.94
+        },
+        {
+          "word": "Today,",
+          "start": 55.26,
+          "end": 55.86
+        },
+        {
+          "word": "we",
+          "start": 56.06,
+          "end": 56.2
+        },
+        {
+          "word": "dissect",
+          "start": 56.2,
+          "end": 56.56
+        },
+        {
+          "word": "it.",
+          "start": 56.56,
+          "end": 56.86
+        }
+      ]
+    },
+    {
+      "scene": "scene_04",
+      "file": "audio/en/scene_04.mp3",
+      "duration": 35.852,
+      "text": "EBGM is built on three pillars, unlike memorizing pixels or compressing them linearly as PCA does. 1. Don't see the face as a plane of pixels, but as a graph connecting landmark points. 2. At each landmark, don't take color, but extract a wavelet jet, loosely the textured DNA of that patch of skin. 3. To handle every pose, stack many sample graphs into a face-bunch graph. The result? A system that's highly robust to lighting, learns from fewer than 100 sample images, and achieves astonishing accuracy.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.58,
+          "text": "EBGM is built on three pillars, unlike memorizing pixels or compressing them linearly as PCA does."
+        },
+        {
+          "start": 7.5,
+          "end": 12.84,
+          "text": "1. Don't see the face as a plane of pixels, but as a graph connecting landmark points."
+        },
+        {
+          "start": 13.36,
+          "end": 21.52,
+          "text": "2. At each landmark, don't take color, but extract a wavelet jet, loosely the textured DNA of that patch of skin."
+        },
+        {
+          "start": 21.96,
+          "end": 27.16,
+          "text": "3. To handle every pose, stack many sample graphs into a face-bunch graph."
+        },
+        {
+          "start": 27.16,
+          "end": 35.32,
+          "text": "The result? A system that's highly robust to lighting, learns from fewer than 100 sample images, and achieves astonishing accuracy."
+        }
+      ],
+      "words": [
+        {
+          "word": "EBGM",
+          "start": 0.0,
+          "end": 0.6
+        },
+        {
+          "word": "is",
+          "start": 0.6,
+          "end": 0.96
+        },
+        {
+          "word": "built",
+          "start": 0.96,
+          "end": 1.14
+        },
+        {
+          "word": "on",
+          "start": 1.14,
+          "end": 1.32
+        },
+        {
+          "word": "three",
+          "start": 1.32,
+          "end": 1.54
+        },
+        {
+          "word": "pillars,",
+          "start": 1.54,
+          "end": 2.0
+        },
+        {
+          "word": "unlike",
+          "start": 2.4,
+          "end": 2.98
+        },
+        {
+          "word": "memorizing",
+          "start": 2.98,
+          "end": 3.56
+        },
+        {
+          "word": "pixels",
+          "start": 3.56,
+          "end": 3.96
+        },
+        {
+          "word": "or",
+          "start": 3.96,
+          "end": 4.28
+        },
+        {
+          "word": "compressing",
+          "start": 4.28,
+          "end": 4.78
+        },
+        {
+          "word": "them",
+          "start": 4.78,
+          "end": 4.92
+        },
+        {
+          "word": "linearly",
+          "start": 4.92,
+          "end": 5.28
+        },
+        {
+          "word": "as",
+          "start": 5.28,
+          "end": 5.72
+        },
+        {
+          "word": "PCA",
+          "start": 5.72,
+          "end": 6.22
+        },
+        {
+          "word": "does.",
+          "start": 6.22,
+          "end": 6.58
+        },
+        {
+          "word": "1.",
+          "start": 7.5,
+          "end": 7.68
+        },
+        {
+          "word": "Don't",
+          "start": 8.12,
+          "end": 8.52
+        },
+        {
+          "word": "see",
+          "start": 8.52,
+          "end": 8.64
+        },
+        {
+          "word": "the",
+          "start": 8.64,
+          "end": 8.76
+        },
+        {
+          "word": "face",
+          "start": 8.76,
+          "end": 9.04
+        },
+        {
+          "word": "as",
+          "start": 9.04,
+          "end": 9.22
+        },
+        {
+          "word": "a",
+          "start": 9.22,
+          "end": 9.3
+        },
+        {
+          "word": "plane",
+          "start": 9.3,
+          "end": 9.5
+        },
+        {
+          "word": "of",
+          "start": 9.5,
+          "end": 9.62
+        },
+        {
+          "word": "pixels,",
+          "start": 9.62,
+          "end": 10.0
+        },
+        {
+          "word": "but",
+          "start": 10.0,
+          "end": 10.9
+        },
+        {
+          "word": "as",
+          "start": 10.9,
+          "end": 11.08
+        },
+        {
+          "word": "a",
+          "start": 11.08,
+          "end": 11.18
+        },
+        {
+          "word": "graph",
+          "start": 11.18,
+          "end": 11.48
+        },
+        {
+          "word": "connecting",
+          "start": 11.48,
+          "end": 11.92
+        },
+        {
+          "word": "landmark",
+          "start": 11.92,
+          "end": 12.28
+        },
+        {
+          "word": "points.",
+          "start": 12.28,
+          "end": 12.84
+        },
+        {
+          "word": "2.",
+          "start": 13.36,
+          "end": 13.88
+        },
+        {
+          "word": "At",
+          "start": 14.46,
+          "end": 14.84
+        },
+        {
+          "word": "each",
+          "start": 14.84,
+          "end": 15.04
+        },
+        {
+          "word": "landmark,",
+          "start": 15.04,
+          "end": 15.46
+        },
+        {
+          "word": "don't",
+          "start": 15.72,
+          "end": 16.02
+        },
+        {
+          "word": "take",
+          "start": 16.02,
+          "end": 16.18
+        },
+        {
+          "word": "color,",
+          "start": 16.18,
+          "end": 16.52
+        },
+        {
+          "word": "but",
+          "start": 16.78,
+          "end": 17.26
+        },
+        {
+          "word": "extract",
+          "start": 17.26,
+          "end": 17.66
+        },
+        {
+          "word": "a",
+          "start": 17.66,
+          "end": 17.86
+        },
+        {
+          "word": "wavelet",
+          "start": 17.86,
+          "end": 18.24
+        },
+        {
+          "word": "jet,",
+          "start": 18.24,
+          "end": 18.48
+        },
+        {
+          "word": "loosely",
+          "start": 18.82,
+          "end": 19.36
+        },
+        {
+          "word": "the",
+          "start": 19.36,
+          "end": 19.6
+        },
+        {
+          "word": "textured",
+          "start": 19.6,
+          "end": 19.98
+        },
+        {
+          "word": "DNA",
+          "start": 19.98,
+          "end": 20.38
+        },
+        {
+          "word": "of",
+          "start": 20.38,
+          "end": 20.68
+        },
+        {
+          "word": "that",
+          "start": 20.68,
+          "end": 20.82
+        },
+        {
+          "word": "patch",
+          "start": 20.82,
+          "end": 21.1
+        },
+        {
+          "word": "of",
+          "start": 21.1,
+          "end": 21.2
+        },
+        {
+          "word": "skin.",
+          "start": 21.2,
+          "end": 21.52
+        },
+        {
+          "word": "3.",
+          "start": 21.96,
+          "end": 22.46
+        },
+        {
+          "word": "To",
+          "start": 22.88,
+          "end": 23.08
+        },
+        {
+          "word": "handle",
+          "start": 23.08,
+          "end": 23.36
+        },
+        {
+          "word": "every",
+          "start": 23.36,
+          "end": 23.68
+        },
+        {
+          "word": "pose,",
+          "start": 23.68,
+          "end": 24.12
+        },
+        {
+          "word": "stack",
+          "start": 24.5,
+          "end": 24.76
+        },
+        {
+          "word": "many",
+          "start": 24.76,
+          "end": 25.06
+        },
+        {
+          "word": "sample",
+          "start": 25.06,
+          "end": 25.44
+        },
+        {
+          "word": "graphs",
+          "start": 25.44,
+          "end": 25.8
+        },
+        {
+          "word": "into",
+          "start": 25.8,
+          "end": 26.06
+        },
+        {
+          "word": "a",
+          "start": 26.06,
+          "end": 26.22
+        },
+        {
+          "word": "face",
+          "start": 26.22,
+          "end": 26.5
+        },
+        {
+          "word": "-bunch",
+          "start": 26.5,
+          "end": 26.8
+        },
+        {
+          "word": "graph.",
+          "start": 26.8,
+          "end": 27.16
+        },
+        {
+          "word": "The",
+          "start": 27.16,
+          "end": 27.96
+        },
+        {
+          "word": "result?",
+          "start": 27.96,
+          "end": 28.24
+        },
+        {
+          "word": "A",
+          "start": 28.54,
+          "end": 29.14
+        },
+        {
+          "word": "system",
+          "start": 29.14,
+          "end": 29.38
+        },
+        {
+          "word": "that's",
+          "start": 29.38,
+          "end": 29.62
+        },
+        {
+          "word": "highly",
+          "start": 29.62,
+          "end": 29.86
+        },
+        {
+          "word": "robust",
+          "start": 29.86,
+          "end": 30.24
+        },
+        {
+          "word": "to",
+          "start": 30.24,
+          "end": 30.38
+        },
+        {
+          "word": "lighting,",
+          "start": 30.38,
+          "end": 30.66
+        },
+        {
+          "word": "learns",
+          "start": 30.92,
+          "end": 31.36
+        },
+        {
+          "word": "from",
+          "start": 31.36,
+          "end": 31.54
+        },
+        {
+          "word": "fewer",
+          "start": 31.54,
+          "end": 31.84
+        },
+        {
+          "word": "than",
+          "start": 31.84,
+          "end": 32.08
+        },
+        {
+          "word": "100",
+          "start": 32.08,
+          "end": 32.38
+        },
+        {
+          "word": "sample",
+          "start": 32.38,
+          "end": 32.78
+        },
+        {
+          "word": "images,",
+          "start": 32.78,
+          "end": 33.14
+        },
+        {
+          "word": "and",
+          "start": 33.52,
+          "end": 33.6
+        },
+        {
+          "word": "achieves",
+          "start": 33.6,
+          "end": 34.06
+        },
+        {
+          "word": "astonishing",
+          "start": 34.06,
+          "end": 34.6
+        },
+        {
+          "word": "accuracy.",
+          "start": 34.6,
+          "end": 35.32
+        }
+      ]
+    },
+    {
+      "scene": "scene_05",
+      "file": "audio/en/scene_05.mp3",
+      "duration": 36.548,
+      "text": "Let's start micro. How does the AI see a single point on a face? Instead of pixels, which are very light-sensitive, scientists borrowed from biology. They use Gabor wavelets, mathematically a sine wave trapped inside a Gaussian envelope. It acts as a filter, capturing only wrinkles and edges at one specific orientation and frequency. The beauty? It cancels out the background light component. It's DC-free. Just like the first layers of a CNN detect edges, the Gabor wavelet mirrors exactly how the visual cortex works.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.22,
+          "text": "Let's start micro. How does the AI see a single point on a face?"
+        },
+        {
+          "start": 4.96,
+          "end": 9.84,
+          "text": "Instead of pixels, which are very light-sensitive, scientists borrowed from biology."
+        },
+        {
+          "start": 10.36,
+          "end": 15.88,
+          "text": "They use Gabor wavelets, mathematically a sine wave trapped inside a Gaussian envelope."
+        },
+        {
+          "start": 16.3,
+          "end": 22.3,
+          "text": "It acts as a filter, capturing only wrinkles and edges at one specific orientation and frequency."
+        },
+        {
+          "start": 23.0,
+          "end": 28.24,
+          "text": "The beauty? It cancels out the background light component. It's DC-free."
+        },
+        {
+          "start": 29.06,
+          "end": 36.06,
+          "text": "Just like the first layers of a CNN detect edges, the Gabor wavelet mirrors exactly how the visual cortex works."
+        }
+      ],
+      "words": [
+        {
+          "word": "Let's",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "start",
+          "start": 0.24,
+          "end": 0.44
+        },
+        {
+          "word": "micro.",
+          "start": 0.44,
+          "end": 0.74
+        },
+        {
+          "word": "How",
+          "start": 1.36,
+          "end": 1.94
+        },
+        {
+          "word": "does",
+          "start": 1.94,
+          "end": 2.12
+        },
+        {
+          "word": "the",
+          "start": 2.12,
+          "end": 2.26
+        },
+        {
+          "word": "AI",
+          "start": 2.26,
+          "end": 2.56
+        },
+        {
+          "word": "see",
+          "start": 2.56,
+          "end": 2.88
+        },
+        {
+          "word": "a",
+          "start": 2.88,
+          "end": 3.04
+        },
+        {
+          "word": "single",
+          "start": 3.04,
+          "end": 3.32
+        },
+        {
+          "word": "point",
+          "start": 3.32,
+          "end": 3.62
+        },
+        {
+          "word": "on",
+          "start": 3.62,
+          "end": 3.76
+        },
+        {
+          "word": "a",
+          "start": 3.76,
+          "end": 3.86
+        },
+        {
+          "word": "face?",
+          "start": 3.86,
+          "end": 4.22
+        },
+        {
+          "word": "Instead",
+          "start": 4.96,
+          "end": 5.6
+        },
+        {
+          "word": "of",
+          "start": 5.6,
+          "end": 5.76
+        },
+        {
+          "word": "pixels,",
+          "start": 5.76,
+          "end": 6.16
+        },
+        {
+          "word": "which",
+          "start": 6.48,
+          "end": 6.68
+        },
+        {
+          "word": "are",
+          "start": 6.68,
+          "end": 6.8
+        },
+        {
+          "word": "very",
+          "start": 6.8,
+          "end": 7.04
+        },
+        {
+          "word": "light",
+          "start": 7.04,
+          "end": 7.28
+        },
+        {
+          "word": "-sensitive,",
+          "start": 7.28,
+          "end": 7.66
+        },
+        {
+          "word": "scientists",
+          "start": 8.22,
+          "end": 8.68
+        },
+        {
+          "word": "borrowed",
+          "start": 8.68,
+          "end": 9.12
+        },
+        {
+          "word": "from",
+          "start": 9.12,
+          "end": 9.34
+        },
+        {
+          "word": "biology.",
+          "start": 9.34,
+          "end": 9.84
+        },
+        {
+          "word": "They",
+          "start": 10.36,
+          "end": 10.9
+        },
+        {
+          "word": "use",
+          "start": 10.9,
+          "end": 11.16
+        },
+        {
+          "word": "Gabor",
+          "start": 11.16,
+          "end": 11.5
+        },
+        {
+          "word": "wavelets,",
+          "start": 11.5,
+          "end": 12.2
+        },
+        {
+          "word": "mathematically",
+          "start": 12.52,
+          "end": 13.06
+        },
+        {
+          "word": "a",
+          "start": 13.06,
+          "end": 13.54
+        },
+        {
+          "word": "sine",
+          "start": 13.54,
+          "end": 13.88
+        },
+        {
+          "word": "wave",
+          "start": 13.88,
+          "end": 14.26
+        },
+        {
+          "word": "trapped",
+          "start": 14.26,
+          "end": 14.58
+        },
+        {
+          "word": "inside",
+          "start": 14.58,
+          "end": 14.86
+        },
+        {
+          "word": "a",
+          "start": 14.86,
+          "end": 15.1
+        },
+        {
+          "word": "Gaussian",
+          "start": 15.1,
+          "end": 15.42
+        },
+        {
+          "word": "envelope.",
+          "start": 15.42,
+          "end": 15.88
+        },
+        {
+          "word": "It",
+          "start": 16.3,
+          "end": 16.88
+        },
+        {
+          "word": "acts",
+          "start": 16.88,
+          "end": 17.14
+        },
+        {
+          "word": "as",
+          "start": 17.14,
+          "end": 17.26
+        },
+        {
+          "word": "a",
+          "start": 17.26,
+          "end": 17.34
+        },
+        {
+          "word": "filter,",
+          "start": 17.34,
+          "end": 17.7
+        },
+        {
+          "word": "capturing",
+          "start": 18.0,
+          "end": 18.5
+        },
+        {
+          "word": "only",
+          "start": 18.5,
+          "end": 18.86
+        },
+        {
+          "word": "wrinkles",
+          "start": 18.86,
+          "end": 19.24
+        },
+        {
+          "word": "and",
+          "start": 19.24,
+          "end": 19.5
+        },
+        {
+          "word": "edges",
+          "start": 19.5,
+          "end": 19.8
+        },
+        {
+          "word": "at",
+          "start": 19.8,
+          "end": 20.16
+        },
+        {
+          "word": "one",
+          "start": 20.16,
+          "end": 20.4
+        },
+        {
+          "word": "specific",
+          "start": 20.4,
+          "end": 20.84
+        },
+        {
+          "word": "orientation",
+          "start": 20.84,
+          "end": 21.46
+        },
+        {
+          "word": "and",
+          "start": 21.46,
+          "end": 21.82
+        },
+        {
+          "word": "frequency.",
+          "start": 21.82,
+          "end": 22.3
+        },
+        {
+          "word": "The",
+          "start": 23.0,
+          "end": 23.56
+        },
+        {
+          "word": "beauty?",
+          "start": 23.56,
+          "end": 23.84
+        },
+        {
+          "word": "It",
+          "start": 24.12,
+          "end": 24.68
+        },
+        {
+          "word": "cancels",
+          "start": 24.68,
+          "end": 25.12
+        },
+        {
+          "word": "out",
+          "start": 25.12,
+          "end": 25.26
+        },
+        {
+          "word": "the",
+          "start": 25.26,
+          "end": 25.4
+        },
+        {
+          "word": "background",
+          "start": 25.4,
+          "end": 25.76
+        },
+        {
+          "word": "light",
+          "start": 25.76,
+          "end": 26.02
+        },
+        {
+          "word": "component.",
+          "start": 26.02,
+          "end": 26.48
+        },
+        {
+          "word": "It's",
+          "start": 26.9,
+          "end": 27.54
+        },
+        {
+          "word": "DC",
+          "start": 27.54,
+          "end": 27.92
+        },
+        {
+          "word": "-free.",
+          "start": 27.92,
+          "end": 28.24
+        },
+        {
+          "word": "Just",
+          "start": 29.06,
+          "end": 29.7
+        },
+        {
+          "word": "like",
+          "start": 29.7,
+          "end": 29.9
+        },
+        {
+          "word": "the",
+          "start": 29.9,
+          "end": 30.04
+        },
+        {
+          "word": "first",
+          "start": 30.04,
+          "end": 30.28
+        },
+        {
+          "word": "layers",
+          "start": 30.28,
+          "end": 30.6
+        },
+        {
+          "word": "of",
+          "start": 30.6,
+          "end": 30.8
+        },
+        {
+          "word": "a",
+          "start": 30.8,
+          "end": 30.94
+        },
+        {
+          "word": "CNN",
+          "start": 30.94,
+          "end": 31.26
+        },
+        {
+          "word": "detect",
+          "start": 31.26,
+          "end": 31.66
+        },
+        {
+          "word": "edges,",
+          "start": 31.66,
+          "end": 32.04
+        },
+        {
+          "word": "the",
+          "start": 32.44,
+          "end": 32.68
+        },
+        {
+          "word": "Gabor",
+          "start": 32.68,
+          "end": 33.04
+        },
+        {
+          "word": "wavelet",
+          "start": 33.04,
+          "end": 33.56
+        },
+        {
+          "word": "mirrors",
+          "start": 33.56,
+          "end": 33.92
+        },
+        {
+          "word": "exactly",
+          "start": 33.92,
+          "end": 34.52
+        },
+        {
+          "word": "how",
+          "start": 34.52,
+          "end": 34.8
+        },
+        {
+          "word": "the",
+          "start": 34.8,
+          "end": 34.92
+        },
+        {
+          "word": "visual",
+          "start": 34.92,
+          "end": 35.22
+        },
+        {
+          "word": "cortex",
+          "start": 35.22,
+          "end": 35.6
+        },
+        {
+          "word": "works.",
+          "start": 35.6,
+          "end": 36.06
+        }
+      ]
+    },
+    {
+      "scene": "scene_06",
+      "file": "audio/en/scene_06.mp3",
+      "duration": 28.561,
+      "text": "Now, throw the whole bank of 40 Gabor wavelets, five frequencies times eight orientations, at a single point like the corner of an eye, and you get 40 complex numbers. That bundle is called a jet. Think of a jet as a unique barcode of that eye corner. And since they're complex, each element carries two weapons. Amplitude, telling us what shape the region has, and phase, telling us exactly which coordinate the feature sits at.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.62,
+          "text": "Now, throw the whole bank of 40 Gabor wavelets,"
+        },
+        {
+          "start": 2.74,
+          "end": 5.56,
+          "text": "five frequencies times eight orientations,"
+        },
+        {
+          "start": 5.76,
+          "end": 8.12,
+          "text": "at a single point like the corner of an eye,"
+        },
+        {
+          "start": 8.26,
+          "end": 10.12,
+          "text": "and you get 40 complex numbers."
+        },
+        {
+          "start": 10.62,
+          "end": 12.2,
+          "text": "That bundle is called a jet."
+        },
+        {
+          "start": 12.94,
+          "end": 15.8,
+          "text": "Think of a jet as a unique barcode of that eye corner."
+        },
+        {
+          "start": 16.5,
+          "end": 19.86,
+          "text": "And since they're complex, each element carries two weapons."
+        },
+        {
+          "start": 20.98,
+          "end": 23.46,
+          "text": "Amplitude, telling us what shape the region has,"
+        },
+        {
+          "start": 23.64,
+          "end": 27.64,
+          "text": "and phase, telling us exactly which coordinate the feature sits at."
+        }
+      ],
+      "words": [
+        {
+          "word": "Now,",
+          "start": 0.0,
+          "end": 0.22
+        },
+        {
+          "word": "throw",
+          "start": 0.34,
+          "end": 0.5
+        },
+        {
+          "word": "the",
+          "start": 0.5,
+          "end": 0.66
+        },
+        {
+          "word": "whole",
+          "start": 0.66,
+          "end": 0.86
+        },
+        {
+          "word": "bank",
+          "start": 0.86,
+          "end": 1.14
+        },
+        {
+          "word": "of",
+          "start": 1.14,
+          "end": 1.32
+        },
+        {
+          "word": "40",
+          "start": 1.32,
+          "end": 1.6
+        },
+        {
+          "word": "gabber",
+          "start": 1.6,
+          "end": 1.98
+        },
+        {
+          "word": "wavelets,",
+          "start": 1.98,
+          "end": 2.62
+        },
+        {
+          "word": "five",
+          "start": 2.74,
+          "end": 3.32
+        },
+        {
+          "word": "frequencies",
+          "start": 3.32,
+          "end": 3.88
+        },
+        {
+          "word": "times",
+          "start": 3.88,
+          "end": 4.32
+        },
+        {
+          "word": "eight",
+          "start": 4.32,
+          "end": 4.7
+        },
+        {
+          "word": "orientations,",
+          "start": 4.7,
+          "end": 5.56
+        },
+        {
+          "word": "at",
+          "start": 5.76,
+          "end": 6.22
+        },
+        {
+          "word": "a",
+          "start": 6.22,
+          "end": 6.32
+        },
+        {
+          "word": "single",
+          "start": 6.32,
+          "end": 6.58
+        },
+        {
+          "word": "point",
+          "start": 6.58,
+          "end": 6.92
+        },
+        {
+          "word": "like",
+          "start": 6.92,
+          "end": 7.14
+        },
+        {
+          "word": "the",
+          "start": 7.14,
+          "end": 7.28
+        },
+        {
+          "word": "corner",
+          "start": 7.28,
+          "end": 7.58
+        },
+        {
+          "word": "of",
+          "start": 7.58,
+          "end": 7.76
+        },
+        {
+          "word": "an",
+          "start": 7.76,
+          "end": 7.88
+        },
+        {
+          "word": "eye,",
+          "start": 7.88,
+          "end": 8.12
+        },
+        {
+          "word": "and",
+          "start": 8.26,
+          "end": 8.68
+        },
+        {
+          "word": "you",
+          "start": 8.68,
+          "end": 8.84
+        },
+        {
+          "word": "get",
+          "start": 8.84,
+          "end": 8.98
+        },
+        {
+          "word": "40",
+          "start": 8.98,
+          "end": 9.28
+        },
+        {
+          "word": "complex",
+          "start": 9.28,
+          "end": 9.7
+        },
+        {
+          "word": "numbers.",
+          "start": 9.7,
+          "end": 10.12
+        },
+        {
+          "word": "That",
+          "start": 10.62,
+          "end": 11.14
+        },
+        {
+          "word": "bundle",
+          "start": 11.14,
+          "end": 11.4
+        },
+        {
+          "word": "is",
+          "start": 11.4,
+          "end": 11.6
+        },
+        {
+          "word": "called",
+          "start": 11.6,
+          "end": 11.8
+        },
+        {
+          "word": "a",
+          "start": 11.8,
+          "end": 11.94
+        },
+        {
+          "word": "jet.",
+          "start": 11.94,
+          "end": 12.2
+        },
+        {
+          "word": "Think",
+          "start": 12.94,
+          "end": 13.46
+        },
+        {
+          "word": "of",
+          "start": 13.46,
+          "end": 13.6
+        },
+        {
+          "word": "a",
+          "start": 13.6,
+          "end": 13.74
+        },
+        {
+          "word": "jet",
+          "start": 13.74,
+          "end": 13.94
+        },
+        {
+          "word": "as",
+          "start": 13.94,
+          "end": 14.14
+        },
+        {
+          "word": "a",
+          "start": 14.14,
+          "end": 14.24
+        },
+        {
+          "word": "unique",
+          "start": 14.24,
+          "end": 14.5
+        },
+        {
+          "word": "barcode",
+          "start": 14.5,
+          "end": 15.02
+        },
+        {
+          "word": "of",
+          "start": 15.02,
+          "end": 15.18
+        },
+        {
+          "word": "that",
+          "start": 15.18,
+          "end": 15.34
+        },
+        {
+          "word": "eye",
+          "start": 15.34,
+          "end": 15.48
+        },
+        {
+          "word": "corner.",
+          "start": 15.48,
+          "end": 15.8
+        },
+        {
+          "word": "And",
+          "start": 16.5,
+          "end": 17.02
+        },
+        {
+          "word": "since",
+          "start": 17.02,
+          "end": 17.26
+        },
+        {
+          "word": "they're",
+          "start": 17.26,
+          "end": 17.46
+        },
+        {
+          "word": "complex,",
+          "start": 17.46,
+          "end": 17.88
+        },
+        {
+          "word": "each",
+          "start": 18.26,
+          "end": 18.42
+        },
+        {
+          "word": "element",
+          "start": 18.42,
+          "end": 18.76
+        },
+        {
+          "word": "carries",
+          "start": 18.76,
+          "end": 19.14
+        },
+        {
+          "word": "two",
+          "start": 19.14,
+          "end": 19.4
+        },
+        {
+          "word": "weapons.",
+          "start": 19.4,
+          "end": 19.86
+        },
+        {
+          "word": "Amplitude,",
+          "start": 20.98,
+          "end": 21.5
+        },
+        {
+          "word": "telling",
+          "start": 21.5,
+          "end": 22.02
+        },
+        {
+          "word": "us",
+          "start": 22.02,
+          "end": 22.24
+        },
+        {
+          "word": "what",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "word": "shape",
+          "start": 22.4,
+          "end": 22.66
+        },
+        {
+          "word": "the",
+          "start": 22.66,
+          "end": 22.8
+        },
+        {
+          "word": "region",
+          "start": 22.8,
+          "end": 23.04
+        },
+        {
+          "word": "has,",
+          "start": 23.04,
+          "end": 23.46
+        },
+        {
+          "word": "and",
+          "start": 23.64,
+          "end": 24.28
+        },
+        {
+          "word": "phase,",
+          "start": 24.28,
+          "end": 24.66
+        },
+        {
+          "word": "telling",
+          "start": 24.96,
+          "end": 25.26
+        },
+        {
+          "word": "us",
+          "start": 25.26,
+          "end": 25.46
+        },
+        {
+          "word": "exactly",
+          "start": 25.46,
+          "end": 25.92
+        },
+        {
+          "word": "which",
+          "start": 25.92,
+          "end": 26.18
+        },
+        {
+          "word": "coordinate",
+          "start": 26.18,
+          "end": 26.58
+        },
+        {
+          "word": "the",
+          "start": 26.58,
+          "end": 26.84
+        },
+        {
+          "word": "feature",
+          "start": 26.84,
+          "end": 27.08
+        },
+        {
+          "word": "sits",
+          "start": 27.08,
+          "end": 27.4
+        },
+        {
+          "word": "at.",
+          "start": 27.4,
+          "end": 27.64
+        }
+      ]
+    },
+    {
+      "scene": "scene_07",
+      "file": "audio/en/scene_07.mp3",
+      "duration": 36.548,
+      "text": "With two jets, how does the machine know they match? The algorithm pairs two similarity functions in beautiful harmony. The first compares only amplitude, ignoring phase. Picture it forming a smooth basin, a wide attractor, that lets the algorithm catch a signal from afar and slide toward the eye. This is the coarse step. Once very close, the second function with phase kicks in. It's razor sharp, sensitive to the tiniest shift, pinning the exact position with sub-pixel accuracy. Better still, it points the way. It tells you how far to move the jet.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.52,
+          "text": "With two jets, how does the machine know they match?"
+        },
+        {
+          "start": 2.84,
+          "end": 6.54,
+          "text": "The algorithm pairs two similarity functions in beautiful harmony."
+        },
+        {
+          "start": 6.92,
+          "end": 10.12,
+          "text": "The first compares only amplitude, ignoring phase."
+        },
+        {
+          "start": 10.88,
+          "end": 14.42,
+          "text": "Picture it forming a smooth basin, a wide attractor,"
+        },
+        {
+          "start": 14.58,
+          "end": 18.44,
+          "text": "that lets the algorithm catch a signal from afar and slide toward the eye."
+        },
+        {
+          "start": 18.88,
+          "end": 20.38,
+          "text": "This is the coarse step."
+        },
+        {
+          "start": 20.94,
+          "end": 24.34,
+          "text": "Once very close, the second function with phase kicks in."
+        },
+        {
+          "start": 24.64,
+          "end": 28.02,
+          "text": "It's razor sharp, sensitive to the tiniest shift,"
+        },
+        {
+          "start": 28.52,
+          "end": 31.22,
+          "text": "pinning the exact position with sub-pixel accuracy."
+        },
+        {
+          "start": 31.98,
+          "end": 33.74,
+          "text": "Better still, it points the way."
+        },
+        {
+          "start": 34.24,
+          "end": 36.12,
+          "text": "It tells you how far to move the jet."
+        }
+      ],
+      "words": [
+        {
+          "word": "With",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "word": "two",
+          "start": 0.2,
+          "end": 0.42
+        },
+        {
+          "word": "jets,",
+          "start": 0.42,
+          "end": 0.74
+        },
+        {
+          "word": "how",
+          "start": 1.0,
+          "end": 1.16
+        },
+        {
+          "word": "does",
+          "start": 1.16,
+          "end": 1.32
+        },
+        {
+          "word": "the",
+          "start": 1.32,
+          "end": 1.44
+        },
+        {
+          "word": "machine",
+          "start": 1.44,
+          "end": 1.72
+        },
+        {
+          "word": "know",
+          "start": 1.72,
+          "end": 1.96
+        },
+        {
+          "word": "they",
+          "start": 1.96,
+          "end": 2.12
+        },
+        {
+          "word": "match?",
+          "start": 2.12,
+          "end": 2.52
+        },
+        {
+          "word": "The",
+          "start": 2.84,
+          "end": 3.34
+        },
+        {
+          "word": "algorithm",
+          "start": 3.34,
+          "end": 3.8
+        },
+        {
+          "word": "pairs",
+          "start": 3.8,
+          "end": 4.18
+        },
+        {
+          "word": "two",
+          "start": 4.18,
+          "end": 4.48
+        },
+        {
+          "word": "similarity",
+          "start": 4.48,
+          "end": 4.96
+        },
+        {
+          "word": "functions",
+          "start": 4.96,
+          "end": 5.42
+        },
+        {
+          "word": "in",
+          "start": 5.42,
+          "end": 5.78
+        },
+        {
+          "word": "beautiful",
+          "start": 5.78,
+          "end": 6.1
+        },
+        {
+          "word": "harmony.",
+          "start": 6.1,
+          "end": 6.54
+        },
+        {
+          "word": "The",
+          "start": 6.92,
+          "end": 7.36
+        },
+        {
+          "word": "first",
+          "start": 7.36,
+          "end": 7.6
+        },
+        {
+          "word": "compares",
+          "start": 7.6,
+          "end": 8.0
+        },
+        {
+          "word": "only",
+          "start": 8.0,
+          "end": 8.36
+        },
+        {
+          "word": "amplitude,",
+          "start": 8.36,
+          "end": 8.92
+        },
+        {
+          "word": "ignoring",
+          "start": 9.32,
+          "end": 9.78
+        },
+        {
+          "word": "phase.",
+          "start": 9.78,
+          "end": 10.12
+        },
+        {
+          "word": "Picture",
+          "start": 10.88,
+          "end": 11.52
+        },
+        {
+          "word": "it",
+          "start": 11.52,
+          "end": 11.72
+        },
+        {
+          "word": "forming",
+          "start": 11.72,
+          "end": 12.02
+        },
+        {
+          "word": "a",
+          "start": 12.02,
+          "end": 12.22
+        },
+        {
+          "word": "smooth",
+          "start": 12.22,
+          "end": 12.52
+        },
+        {
+          "word": "basin,",
+          "start": 12.52,
+          "end": 13.02
+        },
+        {
+          "word": "a",
+          "start": 13.38,
+          "end": 13.62
+        },
+        {
+          "word": "wide",
+          "start": 13.62,
+          "end": 13.9
+        },
+        {
+          "word": "attractor,",
+          "start": 13.9,
+          "end": 14.42
+        },
+        {
+          "word": "that",
+          "start": 14.58,
+          "end": 15.04
+        },
+        {
+          "word": "lets",
+          "start": 15.04,
+          "end": 15.26
+        },
+        {
+          "word": "the",
+          "start": 15.26,
+          "end": 15.4
+        },
+        {
+          "word": "algorithm",
+          "start": 15.4,
+          "end": 15.88
+        },
+        {
+          "word": "catch",
+          "start": 15.88,
+          "end": 16.24
+        },
+        {
+          "word": "a",
+          "start": 16.24,
+          "end": 16.36
+        },
+        {
+          "word": "signal",
+          "start": 16.36,
+          "end": 16.64
+        },
+        {
+          "word": "from",
+          "start": 16.64,
+          "end": 16.86
+        },
+        {
+          "word": "afar",
+          "start": 16.86,
+          "end": 17.24
+        },
+        {
+          "word": "and",
+          "start": 17.24,
+          "end": 17.5
+        },
+        {
+          "word": "slide",
+          "start": 17.5,
+          "end": 17.82
+        },
+        {
+          "word": "toward",
+          "start": 17.82,
+          "end": 18.04
+        },
+        {
+          "word": "the",
+          "start": 18.04,
+          "end": 18.2
+        },
+        {
+          "word": "eye.",
+          "start": 18.2,
+          "end": 18.44
+        },
+        {
+          "word": "This",
+          "start": 18.88,
+          "end": 19.46
+        },
+        {
+          "word": "is",
+          "start": 19.46,
+          "end": 19.58
+        },
+        {
+          "word": "the",
+          "start": 19.58,
+          "end": 19.7
+        },
+        {
+          "word": "coarse",
+          "start": 19.7,
+          "end": 19.98
+        },
+        {
+          "word": "step.",
+          "start": 19.98,
+          "end": 20.38
+        },
+        {
+          "word": "Once",
+          "start": 20.94,
+          "end": 21.58
+        },
+        {
+          "word": "very",
+          "start": 21.58,
+          "end": 21.84
+        },
+        {
+          "word": "close,",
+          "start": 21.84,
+          "end": 22.24
+        },
+        {
+          "word": "the",
+          "start": 22.42,
+          "end": 22.54
+        },
+        {
+          "word": "second",
+          "start": 22.54,
+          "end": 22.8
+        },
+        {
+          "word": "function",
+          "start": 22.8,
+          "end": 23.2
+        },
+        {
+          "word": "with",
+          "start": 23.2,
+          "end": 23.42
+        },
+        {
+          "word": "phase",
+          "start": 23.42,
+          "end": 23.76
+        },
+        {
+          "word": "kicks",
+          "start": 23.76,
+          "end": 24.04
+        },
+        {
+          "word": "in.",
+          "start": 24.04,
+          "end": 24.34
+        },
+        {
+          "word": "It's",
+          "start": 24.64,
+          "end": 25.28
+        },
+        {
+          "word": "razor",
+          "start": 25.28,
+          "end": 25.62
+        },
+        {
+          "word": "sharp,",
+          "start": 25.62,
+          "end": 26.0
+        },
+        {
+          "word": "sensitive",
+          "start": 26.34,
+          "end": 26.88
+        },
+        {
+          "word": "to",
+          "start": 26.88,
+          "end": 27.1
+        },
+        {
+          "word": "the",
+          "start": 27.1,
+          "end": 27.22
+        },
+        {
+          "word": "tiniest",
+          "start": 27.22,
+          "end": 27.66
+        },
+        {
+          "word": "shift,",
+          "start": 27.66,
+          "end": 28.02
+        },
+        {
+          "word": "pinning",
+          "start": 28.52,
+          "end": 28.76
+        },
+        {
+          "word": "the",
+          "start": 28.76,
+          "end": 28.88
+        },
+        {
+          "word": "exact",
+          "start": 28.88,
+          "end": 29.24
+        },
+        {
+          "word": "position",
+          "start": 29.24,
+          "end": 29.72
+        },
+        {
+          "word": "with",
+          "start": 29.72,
+          "end": 30.04
+        },
+        {
+          "word": "sub",
+          "start": 30.04,
+          "end": 30.32
+        },
+        {
+          "word": "-pixel",
+          "start": 30.32,
+          "end": 30.64
+        },
+        {
+          "word": "accuracy.",
+          "start": 30.64,
+          "end": 31.22
+        },
+        {
+          "word": "Better",
+          "start": 31.98,
+          "end": 32.46
+        },
+        {
+          "word": "still,",
+          "start": 32.46,
+          "end": 32.78
+        },
+        {
+          "word": "it",
+          "start": 32.98,
+          "end": 33.06
+        },
+        {
+          "word": "points",
+          "start": 33.06,
+          "end": 33.36
+        },
+        {
+          "word": "the",
+          "start": 33.36,
+          "end": 33.52
+        },
+        {
+          "word": "way.",
+          "start": 33.52,
+          "end": 33.74
+        },
+        {
+          "word": "It",
+          "start": 34.24,
+          "end": 34.72
+        },
+        {
+          "word": "tells",
+          "start": 34.72,
+          "end": 34.92
+        },
+        {
+          "word": "you",
+          "start": 34.92,
+          "end": 35.08
+        },
+        {
+          "word": "how",
+          "start": 35.08,
+          "end": 35.26
+        },
+        {
+          "word": "far",
+          "start": 35.26,
+          "end": 35.44
+        },
+        {
+          "word": "to",
+          "start": 35.44,
+          "end": 35.56
+        },
+        {
+          "word": "move",
+          "start": 35.56,
+          "end": 35.76
+        },
+        {
+          "word": "the",
+          "start": 35.76,
+          "end": 35.88
+        },
+        {
+          "word": "jet.",
+          "start": 35.88,
+          "end": 36.12
+        }
+      ]
+    },
+    {
+      "scene": "scene_08",
+      "file": "audio/en/scene_08.mp3",
+      "duration": 23.638,
+      "text": "Sprinkle these jets onto the landmarks, eyes, nose, mouth, and connect them. And you have an image graph. The nodes hold the texture barcode, the jet, the edges hold geometric distances. The genius key, EBGM fully separates skin surface information from bone structure so the machine can process each independently.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.06,
+          "text": "Sprinkle these jets onto the landmarks,"
+        },
+        {
+          "start": 2.12,
+          "end": 5.82,
+          "text": "eyes, nose, mouth, and connect them."
+        },
+        {
+          "start": 6.24,
+          "end": 7.84,
+          "text": "And you have an image graph."
+        },
+        {
+          "start": 8.18,
+          "end": 11.26,
+          "text": "The nodes hold the texture barcode, the jet,"
+        },
+        {
+          "start": 11.56,
+          "end": 13.66,
+          "text": "the edges hold geometric distances."
+        },
+        {
+          "start": 14.62,
+          "end": 18.72,
+          "text": "The genius key, EBGM fully separates skin surface"
+        },
+        {
+          "start": 18.72,
+          "end": 20.34,
+          "text": "information from bone structure"
+        },
+        {
+          "start": 20.74,
+          "end": 22.9,
+          "text": "so the machine can process each independently."
+        }
+      ],
+      "words": [
+        {
+          "word": "Sprinkle",
+          "start": 0.0,
+          "end": 0.38
+        },
+        {
+          "word": "these",
+          "start": 0.38,
+          "end": 0.64
+        },
+        {
+          "word": "jets",
+          "start": 0.64,
+          "end": 0.92
+        },
+        {
+          "word": "onto",
+          "start": 0.92,
+          "end": 1.18
+        },
+        {
+          "word": "the",
+          "start": 1.18,
+          "end": 1.34
+        },
+        {
+          "word": "landmarks,",
+          "start": 1.34,
+          "end": 2.06
+        },
+        {
+          "word": "eyes,",
+          "start": 2.12,
+          "end": 2.78
+        },
+        {
+          "word": "nose,",
+          "start": 3.0,
+          "end": 3.5
+        },
+        {
+          "word": "mouth,",
+          "start": 3.8,
+          "end": 4.24
+        },
+        {
+          "word": "and",
+          "start": 4.26,
+          "end": 5.22
+        },
+        {
+          "word": "connect",
+          "start": 5.22,
+          "end": 5.54
+        },
+        {
+          "word": "them.",
+          "start": 5.54,
+          "end": 5.82
+        },
+        {
+          "word": "And",
+          "start": 6.24,
+          "end": 6.86
+        },
+        {
+          "word": "you",
+          "start": 6.86,
+          "end": 6.96
+        },
+        {
+          "word": "have",
+          "start": 6.96,
+          "end": 7.1
+        },
+        {
+          "word": "an",
+          "start": 7.1,
+          "end": 7.2
+        },
+        {
+          "word": "image",
+          "start": 7.2,
+          "end": 7.48
+        },
+        {
+          "word": "graph.",
+          "start": 7.48,
+          "end": 7.84
+        },
+        {
+          "word": "The",
+          "start": 8.18,
+          "end": 8.72
+        },
+        {
+          "word": "nodes",
+          "start": 8.72,
+          "end": 9.0
+        },
+        {
+          "word": "hold",
+          "start": 9.0,
+          "end": 9.2
+        },
+        {
+          "word": "the",
+          "start": 9.2,
+          "end": 9.32
+        },
+        {
+          "word": "texture",
+          "start": 9.32,
+          "end": 9.66
+        },
+        {
+          "word": "barcode,",
+          "start": 9.66,
+          "end": 10.16
+        },
+        {
+          "word": "the",
+          "start": 10.5,
+          "end": 10.94
+        },
+        {
+          "word": "jet,",
+          "start": 10.94,
+          "end": 11.26
+        },
+        {
+          "word": "the",
+          "start": 11.56,
+          "end": 12.06
+        },
+        {
+          "word": "edges",
+          "start": 12.06,
+          "end": 12.36
+        },
+        {
+          "word": "hold",
+          "start": 12.36,
+          "end": 12.62
+        },
+        {
+          "word": "geometric",
+          "start": 12.62,
+          "end": 13.08
+        },
+        {
+          "word": "distances.",
+          "start": 13.08,
+          "end": 13.66
+        },
+        {
+          "word": "The",
+          "start": 14.62,
+          "end": 15.12
+        },
+        {
+          "word": "genius",
+          "start": 15.12,
+          "end": 15.42
+        },
+        {
+          "word": "key,",
+          "start": 15.42,
+          "end": 15.78
+        },
+        {
+          "word": "EBGM",
+          "start": 16.48,
+          "end": 17.22
+        },
+        {
+          "word": "fully",
+          "start": 17.22,
+          "end": 17.58
+        },
+        {
+          "word": "separates",
+          "start": 17.58,
+          "end": 18.12
+        },
+        {
+          "word": "skin",
+          "start": 18.12,
+          "end": 18.36
+        },
+        {
+          "word": "surface",
+          "start": 18.36,
+          "end": 18.72
+        },
+        {
+          "word": "information",
+          "start": 18.72,
+          "end": 19.28
+        },
+        {
+          "word": "from",
+          "start": 19.28,
+          "end": 19.64
+        },
+        {
+          "word": "bone",
+          "start": 19.64,
+          "end": 19.9
+        },
+        {
+          "word": "structure",
+          "start": 19.9,
+          "end": 20.34
+        },
+        {
+          "word": "so",
+          "start": 20.74,
+          "end": 21.08
+        },
+        {
+          "word": "the",
+          "start": 21.08,
+          "end": 21.22
+        },
+        {
+          "word": "machine",
+          "start": 21.22,
+          "end": 21.52
+        },
+        {
+          "word": "can",
+          "start": 21.52,
+          "end": 21.8
+        },
+        {
+          "word": "process",
+          "start": 21.8,
+          "end": 22.2
+        },
+        {
+          "word": "each",
+          "start": 22.2,
+          "end": 22.46
+        },
+        {
+          "word": "independently.",
+          "start": 22.46,
+          "end": 22.9
+        }
+      ]
+    },
+    {
+      "scene": "scene_09",
+      "file": "audio/en/scene_09.mp3",
+      "duration": 25.495,
+      "text": "But your graph can't perfectly fit my face. The solution? The Face Bunch Graph. By stacking dozens of different graphs, the eye node no longer holds one eye, but a whole bunch. Narrow eyes, round eyes, spectacled eyes. Facing a stranger, the system searches the bunch and elects a local expert, the best fit for each landmark. This cross-combination yields almost limitless coverage.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "But your graph can't perfectly fit my face."
+        },
+        {
+          "start": 2.26,
+          "end": 3.12,
+          "text": "The solution?"
+        },
+        {
+          "start": 3.44,
+          "end": 4.82,
+          "text": "The Face Bunch Graph."
+        },
+        {
+          "start": 5.84,
+          "end": 8.16,
+          "text": "By stacking dozens of different graphs,"
+        },
+        {
+          "start": 8.42,
+          "end": 11.28,
+          "text": "the eye node no longer holds one eye, but a whole bunch."
+        },
+        {
+          "start": 11.62,
+          "end": 14.64,
+          "text": "Narrow eyes, round eyes, spectacled eyes."
+        },
+        {
+          "start": 15.52,
+          "end": 18.02,
+          "text": "Facing a stranger, the system searches the bunch"
+        },
+        {
+          "start": 18.02,
+          "end": 19.26,
+          "text": "and elects a local expert,"
+        },
+        {
+          "start": 19.62,
+          "end": 21.4,
+          "text": "the best fit for each landmark."
+        },
+        {
+          "start": 21.86,
+          "end": 24.86,
+          "text": "This cross-combination yields almost limitless coverage."
+        }
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "your",
+          "start": 0.16,
+          "end": 0.28
+        },
+        {
+          "word": "graph",
+          "start": 0.28,
+          "end": 0.56
+        },
+        {
+          "word": "can't",
+          "start": 0.56,
+          "end": 0.82
+        },
+        {
+          "word": "perfectly",
+          "start": 0.82,
+          "end": 1.22
+        },
+        {
+          "word": "fit",
+          "start": 1.22,
+          "end": 1.42
+        },
+        {
+          "word": "my",
+          "start": 1.42,
+          "end": 1.58
+        },
+        {
+          "word": "face.",
+          "start": 1.58,
+          "end": 2.0
+        },
+        {
+          "word": "The",
+          "start": 2.26,
+          "end": 2.7
+        },
+        {
+          "word": "solution?",
+          "start": 2.7,
+          "end": 3.12
+        },
+        {
+          "word": "The",
+          "start": 3.44,
+          "end": 3.88
+        },
+        {
+          "word": "Face",
+          "start": 3.88,
+          "end": 4.18
+        },
+        {
+          "word": "Bunch",
+          "start": 4.18,
+          "end": 4.52
+        },
+        {
+          "word": "Graph.",
+          "start": 4.52,
+          "end": 4.82
+        },
+        {
+          "word": "By",
+          "start": 5.84,
+          "end": 6.46
+        },
+        {
+          "word": "stacking",
+          "start": 6.46,
+          "end": 6.84
+        },
+        {
+          "word": "dozens",
+          "start": 6.84,
+          "end": 7.2
+        },
+        {
+          "word": "of",
+          "start": 7.2,
+          "end": 7.5
+        },
+        {
+          "word": "different",
+          "start": 7.5,
+          "end": 7.74
+        },
+        {
+          "word": "graphs,",
+          "start": 7.74,
+          "end": 8.16
+        },
+        {
+          "word": "the",
+          "start": 8.42,
+          "end": 8.5
+        },
+        {
+          "word": "eye",
+          "start": 8.5,
+          "end": 8.72
+        },
+        {
+          "word": "node",
+          "start": 8.72,
+          "end": 8.96
+        },
+        {
+          "word": "no",
+          "start": 8.96,
+          "end": 9.2
+        },
+        {
+          "word": "longer",
+          "start": 9.2,
+          "end": 9.54
+        },
+        {
+          "word": "holds",
+          "start": 9.54,
+          "end": 9.88
+        },
+        {
+          "word": "one",
+          "start": 9.88,
+          "end": 10.14
+        },
+        {
+          "word": "eye,",
+          "start": 10.14,
+          "end": 10.4
+        },
+        {
+          "word": "but",
+          "start": 10.5,
+          "end": 10.6
+        },
+        {
+          "word": "a",
+          "start": 10.6,
+          "end": 10.7
+        },
+        {
+          "word": "whole",
+          "start": 10.7,
+          "end": 10.9
+        },
+        {
+          "word": "bunch.",
+          "start": 10.9,
+          "end": 11.28
+        },
+        {
+          "word": "Narrow",
+          "start": 11.62,
+          "end": 12.24
+        },
+        {
+          "word": "eyes,",
+          "start": 12.24,
+          "end": 12.6
+        },
+        {
+          "word": "round",
+          "start": 12.78,
+          "end": 13.1
+        },
+        {
+          "word": "eyes,",
+          "start": 13.1,
+          "end": 13.5
+        },
+        {
+          "word": "spectacled",
+          "start": 13.72,
+          "end": 14.32
+        },
+        {
+          "word": "eyes.",
+          "start": 14.32,
+          "end": 14.64
+        },
+        {
+          "word": "Facing",
+          "start": 15.52,
+          "end": 16.14
+        },
+        {
+          "word": "a",
+          "start": 16.14,
+          "end": 16.24
+        },
+        {
+          "word": "stranger,",
+          "start": 16.24,
+          "end": 16.62
+        },
+        {
+          "word": "the",
+          "start": 16.82,
+          "end": 16.88
+        },
+        {
+          "word": "system",
+          "start": 16.88,
+          "end": 17.2
+        },
+        {
+          "word": "searches",
+          "start": 17.2,
+          "end": 17.56
+        },
+        {
+          "word": "the",
+          "start": 17.56,
+          "end": 17.78
+        },
+        {
+          "word": "bunch",
+          "start": 17.78,
+          "end": 18.02
+        },
+        {
+          "word": "and",
+          "start": 18.02,
+          "end": 18.22
+        },
+        {
+          "word": "elects",
+          "start": 18.22,
+          "end": 18.56
+        },
+        {
+          "word": "a",
+          "start": 18.56,
+          "end": 18.64
+        },
+        {
+          "word": "local",
+          "start": 18.64,
+          "end": 18.84
+        },
+        {
+          "word": "expert,",
+          "start": 18.84,
+          "end": 19.26
+        },
+        {
+          "word": "the",
+          "start": 19.62,
+          "end": 20.08
+        },
+        {
+          "word": "best",
+          "start": 20.08,
+          "end": 20.32
+        },
+        {
+          "word": "fit",
+          "start": 20.32,
+          "end": 20.54
+        },
+        {
+          "word": "for",
+          "start": 20.54,
+          "end": 20.74
+        },
+        {
+          "word": "each",
+          "start": 20.74,
+          "end": 20.98
+        },
+        {
+          "word": "landmark.",
+          "start": 20.98,
+          "end": 21.4
+        },
+        {
+          "word": "This",
+          "start": 21.86,
+          "end": 22.48
+        },
+        {
+          "word": "cross",
+          "start": 22.48,
+          "end": 22.74
+        },
+        {
+          "word": "-combination",
+          "start": 22.74,
+          "end": 23.28
+        },
+        {
+          "word": "yields",
+          "start": 23.28,
+          "end": 23.62
+        },
+        {
+          "word": "almost",
+          "start": 23.62,
+          "end": 24.02
+        },
+        {
+          "word": "limitless",
+          "start": 24.02,
+          "end": 24.56
+        },
+        {
+          "word": "coverage.",
+          "start": 24.56,
+          "end": 24.86
+        }
+      ]
+    },
+    {
+      "scene": "scene_10",
+      "file": "audio/en/scene_10.mp3",
+      "duration": 26.146,
+      "text": "How do we know the graph is correctly fitted? EBGM solves an optimization with a very familiar objective, a tug of war. On one side, it rewards jet similarity. On the other, it penalizes geometric distortion of the edges, scaled by lambda. If you force the nose point up onto the forehead to match texture, the connecting edge stretches, and the algorithm hits you with an enormous penalty.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.8,
+          "text": "How do we know the graph is correctly fitted?"
+        },
+        {
+          "start": 2.94,
+          "end": 6.48,
+          "text": "EBGM solves an optimization with a very familiar objective,"
+        },
+        {
+          "start": 6.98,
+          "end": 7.92,
+          "text": "a tug of war."
+        },
+        {
+          "start": 8.62,
+          "end": 11.16,
+          "text": "On one side, it rewards jet similarity."
+        },
+        {
+          "start": 11.72,
+          "end": 14.56,
+          "text": "On the other, it penalizes geometric distortion"
+        },
+        {
+          "start": 14.56,
+          "end": 16.52,
+          "text": "of the edges, scaled by lambda."
+        },
+        {
+          "start": 17.3,
+          "end": 19.88,
+          "text": "If you force the nose point up onto the forehead"
+        },
+        {
+          "start": 19.88,
+          "end": 22.36,
+          "text": "to match texture, the connecting edge stretches,"
+        },
+        {
+          "start": 23.12,
+          "end": 25.62,
+          "text": "and the algorithm hits you with an enormous penalty."
+        }
+      ],
+      "words": [
+        {
+          "word": "How",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "do",
+          "start": 0.16,
+          "end": 0.28
+        },
+        {
+          "word": "we",
+          "start": 0.28,
+          "end": 0.38
+        },
+        {
+          "word": "know",
+          "start": 0.38,
+          "end": 0.54
+        },
+        {
+          "word": "the",
+          "start": 0.54,
+          "end": 0.68
+        },
+        {
+          "word": "graph",
+          "start": 0.68,
+          "end": 0.94
+        },
+        {
+          "word": "is",
+          "start": 0.94,
+          "end": 1.12
+        },
+        {
+          "word": "correctly",
+          "start": 1.12,
+          "end": 1.48
+        },
+        {
+          "word": "fitted?",
+          "start": 1.48,
+          "end": 1.8
+        },
+        {
+          "word": "EBGM",
+          "start": 2.94,
+          "end": 3.54
+        },
+        {
+          "word": "solves",
+          "start": 3.54,
+          "end": 3.98
+        },
+        {
+          "word": "an",
+          "start": 3.98,
+          "end": 4.12
+        },
+        {
+          "word": "optimization",
+          "start": 4.12,
+          "end": 4.58
+        },
+        {
+          "word": "with",
+          "start": 4.58,
+          "end": 5.06
+        },
+        {
+          "word": "a",
+          "start": 5.06,
+          "end": 5.18
+        },
+        {
+          "word": "very",
+          "start": 5.18,
+          "end": 5.46
+        },
+        {
+          "word": "familiar",
+          "start": 5.46,
+          "end": 5.94
+        },
+        {
+          "word": "objective,",
+          "start": 5.94,
+          "end": 6.48
+        },
+        {
+          "word": "a",
+          "start": 6.98,
+          "end": 7.34
+        },
+        {
+          "word": "tug",
+          "start": 7.34,
+          "end": 7.5
+        },
+        {
+          "word": "of",
+          "start": 7.5,
+          "end": 7.64
+        },
+        {
+          "word": "war.",
+          "start": 7.64,
+          "end": 7.92
+        },
+        {
+          "word": "On",
+          "start": 8.62,
+          "end": 9.22
+        },
+        {
+          "word": "one",
+          "start": 9.22,
+          "end": 9.44
+        },
+        {
+          "word": "side,",
+          "start": 9.44,
+          "end": 9.74
+        },
+        {
+          "word": "it",
+          "start": 9.86,
+          "end": 9.88
+        },
+        {
+          "word": "rewards",
+          "start": 9.88,
+          "end": 10.34
+        },
+        {
+          "word": "jet",
+          "start": 10.34,
+          "end": 10.62
+        },
+        {
+          "word": "similarity.",
+          "start": 10.62,
+          "end": 11.16
+        },
+        {
+          "word": "On",
+          "start": 11.72,
+          "end": 12.32
+        },
+        {
+          "word": "the",
+          "start": 12.32,
+          "end": 12.44
+        },
+        {
+          "word": "other,",
+          "start": 12.44,
+          "end": 12.64
+        },
+        {
+          "word": "it",
+          "start": 12.8,
+          "end": 12.88
+        },
+        {
+          "word": "penalizes",
+          "start": 12.88,
+          "end": 13.5
+        },
+        {
+          "word": "geometric",
+          "start": 13.5,
+          "end": 14.02
+        },
+        {
+          "word": "distortion",
+          "start": 14.02,
+          "end": 14.56
+        },
+        {
+          "word": "of",
+          "start": 14.56,
+          "end": 14.88
+        },
+        {
+          "word": "the",
+          "start": 14.88,
+          "end": 15.0
+        },
+        {
+          "word": "edges,",
+          "start": 15.0,
+          "end": 15.42
+        },
+        {
+          "word": "scaled",
+          "start": 15.42,
+          "end": 15.96
+        },
+        {
+          "word": "by",
+          "start": 15.96,
+          "end": 16.26
+        },
+        {
+          "word": "lambda.",
+          "start": 16.26,
+          "end": 16.52
+        },
+        {
+          "word": "If",
+          "start": 17.3,
+          "end": 17.9
+        },
+        {
+          "word": "you",
+          "start": 17.9,
+          "end": 18.0
+        },
+        {
+          "word": "force",
+          "start": 18.0,
+          "end": 18.26
+        },
+        {
+          "word": "the",
+          "start": 18.26,
+          "end": 18.42
+        },
+        {
+          "word": "nose",
+          "start": 18.42,
+          "end": 18.6
+        },
+        {
+          "word": "point",
+          "start": 18.6,
+          "end": 18.84
+        },
+        {
+          "word": "up",
+          "start": 18.84,
+          "end": 19.12
+        },
+        {
+          "word": "onto",
+          "start": 19.12,
+          "end": 19.36
+        },
+        {
+          "word": "the",
+          "start": 19.36,
+          "end": 19.52
+        },
+        {
+          "word": "forehead",
+          "start": 19.52,
+          "end": 19.88
+        },
+        {
+          "word": "to",
+          "start": 19.88,
+          "end": 20.1
+        },
+        {
+          "word": "match",
+          "start": 20.1,
+          "end": 20.28
+        },
+        {
+          "word": "texture,",
+          "start": 20.28,
+          "end": 20.74
+        },
+        {
+          "word": "the",
+          "start": 21.04,
+          "end": 21.34
+        },
+        {
+          "word": "connecting",
+          "start": 21.34,
+          "end": 21.66
+        },
+        {
+          "word": "edge",
+          "start": 21.66,
+          "end": 21.98
+        },
+        {
+          "word": "stretches,",
+          "start": 21.98,
+          "end": 22.36
+        },
+        {
+          "word": "and",
+          "start": 23.12,
+          "end": 23.42
+        },
+        {
+          "word": "the",
+          "start": 23.42,
+          "end": 23.54
+        },
+        {
+          "word": "algorithm",
+          "start": 23.54,
+          "end": 24.0
+        },
+        {
+          "word": "hits",
+          "start": 24.0,
+          "end": 24.36
+        },
+        {
+          "word": "you",
+          "start": 24.36,
+          "end": 24.54
+        },
+        {
+          "word": "with",
+          "start": 24.54,
+          "end": 24.72
+        },
+        {
+          "word": "an",
+          "start": 24.72,
+          "end": 24.8
+        },
+        {
+          "word": "enormous",
+          "start": 24.8,
+          "end": 25.16
+        },
+        {
+          "word": "penalty.",
+          "start": 25.16,
+          "end": 25.62
+        }
+      ]
+    },
+    {
+      "scene": "scene_11",
+      "file": "audio/en/scene_11.mp3",
+      "duration": 46.394,
+      "text": "And here it is, the heart of the algorithm, elastic matching, going from rigid to supple. First, the graph is a rigid block, sliding across the image to locate the face. Then it scales globally to match size, and stretches width and height for the right aspect ratio. But the magic is the final step, the word elastic. The graph is released. Each node crawls freely, nudging bit by bit toward its true landmark on the image, while the edges act as springs holding the structure from breaking apart. The whole thing runs in two phases. Normalization, crop the face to a standard 128 wide, 128, then recognition. Extract the final detailed graph.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.52,
+          "text": "And here it is, the heart of the algorithm, elastic matching, going from rigid to supple."
+        },
+        {
+          "start": 7.28,
+          "end": 12.0,
+          "text": "First, the graph is a rigid block, sliding across the image to locate the face."
+        },
+        {
+          "start": 12.64,
+          "end": 18.44,
+          "text": "Then it scales globally to match size, and stretches width and height for the right aspect ratio."
+        },
+        {
+          "start": 18.82,
+          "end": 22.42,
+          "text": "But the magic is the final step, the word elastic."
+        },
+        {
+          "start": 22.88,
+          "end": 24.18,
+          "text": "The graph is released."
+        },
+        {
+          "start": 24.92,
+          "end": 29.86,
+          "text": "Each node crawls freely, nudging bit by bit toward its true landmark on the image,"
+        },
+        {
+          "start": 30.0,
+          "end": 33.7,
+          "text": "while the edges act as springs holding the structure from breaking apart."
+        },
+        {
+          "start": 34.04,
+          "end": 36.1,
+          "text": "The whole thing runs in two phases."
+        },
+        {
+          "start": 36.88,
+          "end": 43.06,
+          "text": "Normalization, crop the face to a standard 128 wide, 128, then recognition."
+        },
+        {
+          "start": 43.62,
+          "end": 45.5,
+          "text": "Extract the final detailed graph."
+        }
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "here",
+          "start": 0.16,
+          "end": 0.32
+        },
+        {
+          "word": "it",
+          "start": 0.32,
+          "end": 0.44
+        },
+        {
+          "word": "is,",
+          "start": 0.44,
+          "end": 0.78
+        },
+        {
+          "word": "the",
+          "start": 1.02,
+          "end": 1.44
+        },
+        {
+          "word": "heart",
+          "start": 1.44,
+          "end": 1.7
+        },
+        {
+          "word": "of",
+          "start": 1.7,
+          "end": 1.84
+        },
+        {
+          "word": "the",
+          "start": 1.84,
+          "end": 1.94
+        },
+        {
+          "word": "algorithm,",
+          "start": 1.94,
+          "end": 2.48
+        },
+        {
+          "word": "elastic",
+          "start": 3.22,
+          "end": 3.72
+        },
+        {
+          "word": "matching,",
+          "start": 3.72,
+          "end": 4.18
+        },
+        {
+          "word": "going",
+          "start": 4.5,
+          "end": 5.18
+        },
+        {
+          "word": "from",
+          "start": 5.18,
+          "end": 5.46
+        },
+        {
+          "word": "rigid",
+          "start": 5.46,
+          "end": 5.8
+        },
+        {
+          "word": "to",
+          "start": 5.8,
+          "end": 6.12
+        },
+        {
+          "word": "supple.",
+          "start": 6.12,
+          "end": 6.52
+        },
+        {
+          "word": "First,",
+          "start": 7.28,
+          "end": 7.88
+        },
+        {
+          "word": "the",
+          "start": 8.08,
+          "end": 8.2
+        },
+        {
+          "word": "graph",
+          "start": 8.2,
+          "end": 8.44
+        },
+        {
+          "word": "is",
+          "start": 8.44,
+          "end": 8.62
+        },
+        {
+          "word": "a",
+          "start": 8.62,
+          "end": 8.72
+        },
+        {
+          "word": "rigid",
+          "start": 8.72,
+          "end": 8.96
+        },
+        {
+          "word": "block,",
+          "start": 8.96,
+          "end": 9.4
+        },
+        {
+          "word": "sliding",
+          "start": 9.56,
+          "end": 10.12
+        },
+        {
+          "word": "across",
+          "start": 10.12,
+          "end": 10.42
+        },
+        {
+          "word": "the",
+          "start": 10.42,
+          "end": 10.64
+        },
+        {
+          "word": "image",
+          "start": 10.64,
+          "end": 10.9
+        },
+        {
+          "word": "to",
+          "start": 10.9,
+          "end": 11.12
+        },
+        {
+          "word": "locate",
+          "start": 11.12,
+          "end": 11.48
+        },
+        {
+          "word": "the",
+          "start": 11.48,
+          "end": 11.62
+        },
+        {
+          "word": "face.",
+          "start": 11.62,
+          "end": 12.0
+        },
+        {
+          "word": "Then",
+          "start": 12.64,
+          "end": 13.24
+        },
+        {
+          "word": "it",
+          "start": 13.24,
+          "end": 13.38
+        },
+        {
+          "word": "scales",
+          "start": 13.38,
+          "end": 13.76
+        },
+        {
+          "word": "globally",
+          "start": 13.76,
+          "end": 14.24
+        },
+        {
+          "word": "to",
+          "start": 14.24,
+          "end": 14.54
+        },
+        {
+          "word": "match",
+          "start": 14.54,
+          "end": 14.78
+        },
+        {
+          "word": "size,",
+          "start": 14.78,
+          "end": 15.26
+        },
+        {
+          "word": "and",
+          "start": 15.42,
+          "end": 15.76
+        },
+        {
+          "word": "stretches",
+          "start": 15.76,
+          "end": 16.14
+        },
+        {
+          "word": "width",
+          "start": 16.14,
+          "end": 16.5
+        },
+        {
+          "word": "and",
+          "start": 16.5,
+          "end": 16.72
+        },
+        {
+          "word": "height",
+          "start": 16.72,
+          "end": 17.0
+        },
+        {
+          "word": "for",
+          "start": 17.0,
+          "end": 17.2
+        },
+        {
+          "word": "the",
+          "start": 17.2,
+          "end": 17.32
+        },
+        {
+          "word": "right",
+          "start": 17.32,
+          "end": 17.54
+        },
+        {
+          "word": "aspect",
+          "start": 17.54,
+          "end": 17.94
+        },
+        {
+          "word": "ratio.",
+          "start": 17.94,
+          "end": 18.44
+        },
+        {
+          "word": "But",
+          "start": 18.82,
+          "end": 19.42
+        },
+        {
+          "word": "the",
+          "start": 19.42,
+          "end": 19.54
+        },
+        {
+          "word": "magic",
+          "start": 19.54,
+          "end": 19.86
+        },
+        {
+          "word": "is",
+          "start": 19.86,
+          "end": 20.1
+        },
+        {
+          "word": "the",
+          "start": 20.1,
+          "end": 20.22
+        },
+        {
+          "word": "final",
+          "start": 20.22,
+          "end": 20.5
+        },
+        {
+          "word": "step,",
+          "start": 20.5,
+          "end": 20.88
+        },
+        {
+          "word": "the",
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "word": "word",
+          "start": 21.6,
+          "end": 21.92
+        },
+        {
+          "word": "elastic.",
+          "start": 21.92,
+          "end": 22.42
+        },
+        {
+          "word": "The",
+          "start": 22.88,
+          "end": 23.28
+        },
+        {
+          "word": "graph",
+          "start": 23.28,
+          "end": 23.58
+        },
+        {
+          "word": "is",
+          "start": 23.58,
+          "end": 23.74
+        },
+        {
+          "word": "released.",
+          "start": 23.74,
+          "end": 24.18
+        },
+        {
+          "word": "Each",
+          "start": 24.92,
+          "end": 25.52
+        },
+        {
+          "word": "node",
+          "start": 25.52,
+          "end": 25.82
+        },
+        {
+          "word": "crawls",
+          "start": 25.82,
+          "end": 26.22
+        },
+        {
+          "word": "freely,",
+          "start": 26.22,
+          "end": 26.6
+        },
+        {
+          "word": "nudging",
+          "start": 27.06,
+          "end": 27.36
+        },
+        {
+          "word": "bit",
+          "start": 27.36,
+          "end": 27.58
+        },
+        {
+          "word": "by",
+          "start": 27.58,
+          "end": 27.74
+        },
+        {
+          "word": "bit",
+          "start": 27.74,
+          "end": 28.0
+        },
+        {
+          "word": "toward",
+          "start": 28.0,
+          "end": 28.22
+        },
+        {
+          "word": "its",
+          "start": 28.22,
+          "end": 28.42
+        },
+        {
+          "word": "true",
+          "start": 28.42,
+          "end": 28.68
+        },
+        {
+          "word": "landmark",
+          "start": 28.68,
+          "end": 29.06
+        },
+        {
+          "word": "on",
+          "start": 29.06,
+          "end": 29.36
+        },
+        {
+          "word": "the",
+          "start": 29.36,
+          "end": 29.48
+        },
+        {
+          "word": "image,",
+          "start": 29.48,
+          "end": 29.86
+        },
+        {
+          "word": "while",
+          "start": 30.0,
+          "end": 30.34
+        },
+        {
+          "word": "the",
+          "start": 30.34,
+          "end": 30.46
+        },
+        {
+          "word": "edges",
+          "start": 30.46,
+          "end": 30.76
+        },
+        {
+          "word": "act",
+          "start": 30.76,
+          "end": 31.12
+        },
+        {
+          "word": "as",
+          "start": 31.12,
+          "end": 31.34
+        },
+        {
+          "word": "springs",
+          "start": 31.34,
+          "end": 31.76
+        },
+        {
+          "word": "holding",
+          "start": 31.76,
+          "end": 32.16
+        },
+        {
+          "word": "the",
+          "start": 32.16,
+          "end": 32.36
+        },
+        {
+          "word": "structure",
+          "start": 32.36,
+          "end": 32.72
+        },
+        {
+          "word": "from",
+          "start": 32.72,
+          "end": 33.0
+        },
+        {
+          "word": "breaking",
+          "start": 33.0,
+          "end": 33.3
+        },
+        {
+          "word": "apart.",
+          "start": 33.3,
+          "end": 33.7
+        },
+        {
+          "word": "The",
+          "start": 34.04,
+          "end": 34.58
+        },
+        {
+          "word": "whole",
+          "start": 34.58,
+          "end": 34.72
+        },
+        {
+          "word": "thing",
+          "start": 34.72,
+          "end": 34.94
+        },
+        {
+          "word": "runs",
+          "start": 34.94,
+          "end": 35.24
+        },
+        {
+          "word": "in",
+          "start": 35.24,
+          "end": 35.42
+        },
+        {
+          "word": "two",
+          "start": 35.42,
+          "end": 35.58
+        },
+        {
+          "word": "phases.",
+          "start": 35.58,
+          "end": 36.1
+        },
+        {
+          "word": "Normalization,",
+          "start": 36.88,
+          "end": 37.56
+        },
+        {
+          "word": "crop",
+          "start": 37.78,
+          "end": 38.24
+        },
+        {
+          "word": "the",
+          "start": 38.24,
+          "end": 38.42
+        },
+        {
+          "word": "face",
+          "start": 38.42,
+          "end": 38.72
+        },
+        {
+          "word": "to",
+          "start": 38.72,
+          "end": 38.9
+        },
+        {
+          "word": "a",
+          "start": 38.9,
+          "end": 39.0
+        },
+        {
+          "word": "standard",
+          "start": 39.0,
+          "end": 39.42
+        },
+        {
+          "word": "128",
+          "start": 39.42,
+          "end": 40.26
+        },
+        {
+          "word": "wide,",
+          "start": 40.26,
+          "end": 40.62
+        },
+        {
+          "word": "128,",
+          "start": 40.8,
+          "end": 41.38
+        },
+        {
+          "word": "then",
+          "start": 42.0,
+          "end": 42.5
+        },
+        {
+          "word": "recognition.",
+          "start": 42.5,
+          "end": 43.06
+        },
+        {
+          "word": "Extract",
+          "start": 43.62,
+          "end": 44.3
+        },
+        {
+          "word": "the",
+          "start": 44.3,
+          "end": 44.46
+        },
+        {
+          "word": "final",
+          "start": 44.46,
+          "end": 44.74
+        },
+        {
+          "word": "detailed",
+          "start": 44.74,
+          "end": 45.1
+        },
+        {
+          "word": "graph.",
+          "start": 45.1,
+          "end": 45.5
+        }
+      ]
+    },
+    {
+      "scene": "scene_12",
+      "file": "audio/en/scene_12.mp3",
+      "duration": 22.384,
+      "text": "Once the elastic grid is locked onto the new face, the probe, recognition is featherlight. Carry this grid and compare it against each person in the gallery. Now we drop phase and use amplitude only because amplitude is more robust to changes in expression and smiles. Score, rank, and whoever lands at rank 1 is the identity you're looking for.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.56,
+          "text": "Once the elastic grid is locked onto the new face, the probe,"
+        },
+        {
+          "start": 3.96,
+          "end": 5.46,
+          "text": "recognition is featherlight."
+        },
+        {
+          "start": 6.06,
+          "end": 9.34,
+          "text": "Carry this grid and compare it against each person in the gallery."
+        },
+        {
+          "start": 10.04,
+          "end": 12.82,
+          "text": "Now we drop phase and use amplitude only"
+        },
+        {
+          "start": 12.82,
+          "end": 16.66,
+          "text": "because amplitude is more robust to changes in expression and smiles."
+        },
+        {
+          "start": 17.2,
+          "end": 21.96,
+          "text": "Score, rank, and whoever lands at rank 1 is the identity you're looking for."
+        }
+      ],
+      "words": [
+        {
+          "word": "Once",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "word": "the",
+          "start": 0.2,
+          "end": 0.36
+        },
+        {
+          "word": "elastic",
+          "start": 0.36,
+          "end": 0.76
+        },
+        {
+          "word": "grid",
+          "start": 0.76,
+          "end": 1.04
+        },
+        {
+          "word": "is",
+          "start": 1.04,
+          "end": 1.26
+        },
+        {
+          "word": "locked",
+          "start": 1.26,
+          "end": 1.6
+        },
+        {
+          "word": "onto",
+          "start": 1.6,
+          "end": 1.86
+        },
+        {
+          "word": "the",
+          "start": 1.86,
+          "end": 2.04
+        },
+        {
+          "word": "new",
+          "start": 2.04,
+          "end": 2.18
+        },
+        {
+          "word": "face,",
+          "start": 2.18,
+          "end": 2.64
+        },
+        {
+          "word": "the",
+          "start": 2.82,
+          "end": 3.16
+        },
+        {
+          "word": "probe,",
+          "start": 3.16,
+          "end": 3.56
+        },
+        {
+          "word": "recognition",
+          "start": 3.96,
+          "end": 4.54
+        },
+        {
+          "word": "is",
+          "start": 4.54,
+          "end": 4.94
+        },
+        {
+          "word": "featherlight.",
+          "start": 4.94,
+          "end": 5.46
+        },
+        {
+          "word": "Carry",
+          "start": 6.06,
+          "end": 6.66
+        },
+        {
+          "word": "this",
+          "start": 6.66,
+          "end": 6.88
+        },
+        {
+          "word": "grid",
+          "start": 6.88,
+          "end": 7.18
+        },
+        {
+          "word": "and",
+          "start": 7.18,
+          "end": 7.4
+        },
+        {
+          "word": "compare",
+          "start": 7.4,
+          "end": 7.72
+        },
+        {
+          "word": "it",
+          "start": 7.72,
+          "end": 7.88
+        },
+        {
+          "word": "against",
+          "start": 7.88,
+          "end": 8.12
+        },
+        {
+          "word": "each",
+          "start": 8.12,
+          "end": 8.4
+        },
+        {
+          "word": "person",
+          "start": 8.4,
+          "end": 8.76
+        },
+        {
+          "word": "in",
+          "start": 8.76,
+          "end": 8.94
+        },
+        {
+          "word": "the",
+          "start": 8.94,
+          "end": 9.02
+        },
+        {
+          "word": "gallery.",
+          "start": 9.02,
+          "end": 9.34
+        },
+        {
+          "word": "Now",
+          "start": 10.04,
+          "end": 10.64
+        },
+        {
+          "word": "we",
+          "start": 10.64,
+          "end": 10.82
+        },
+        {
+          "word": "drop",
+          "start": 10.82,
+          "end": 11.06
+        },
+        {
+          "word": "phase",
+          "start": 11.06,
+          "end": 11.36
+        },
+        {
+          "word": "and",
+          "start": 11.36,
+          "end": 11.62
+        },
+        {
+          "word": "use",
+          "start": 11.62,
+          "end": 11.88
+        },
+        {
+          "word": "amplitude",
+          "start": 11.88,
+          "end": 12.3
+        },
+        {
+          "word": "only",
+          "start": 12.3,
+          "end": 12.82
+        },
+        {
+          "word": "because",
+          "start": 12.82,
+          "end": 13.3
+        },
+        {
+          "word": "amplitude",
+          "start": 13.3,
+          "end": 13.74
+        },
+        {
+          "word": "is",
+          "start": 13.74,
+          "end": 14.06
+        },
+        {
+          "word": "more",
+          "start": 14.06,
+          "end": 14.26
+        },
+        {
+          "word": "robust",
+          "start": 14.26,
+          "end": 14.72
+        },
+        {
+          "word": "to",
+          "start": 14.72,
+          "end": 14.94
+        },
+        {
+          "word": "changes",
+          "start": 14.94,
+          "end": 15.3
+        },
+        {
+          "word": "in",
+          "start": 15.3,
+          "end": 15.52
+        },
+        {
+          "word": "expression",
+          "start": 15.52,
+          "end": 15.96
+        },
+        {
+          "word": "and",
+          "start": 15.96,
+          "end": 16.2
+        },
+        {
+          "word": "smiles.",
+          "start": 16.2,
+          "end": 16.66
+        },
+        {
+          "word": "Score,",
+          "start": 17.2,
+          "end": 17.8
+        },
+        {
+          "word": "rank,",
+          "start": 18.16,
+          "end": 18.72
+        },
+        {
+          "word": "and",
+          "start": 18.88,
+          "end": 19.18
+        },
+        {
+          "word": "whoever",
+          "start": 19.18,
+          "end": 19.44
+        },
+        {
+          "word": "lands",
+          "start": 19.44,
+          "end": 19.78
+        },
+        {
+          "word": "at",
+          "start": 19.78,
+          "end": 19.94
+        },
+        {
+          "word": "rank",
+          "start": 19.94,
+          "end": 20.16
+        },
+        {
+          "word": "1",
+          "start": 20.16,
+          "end": 20.4
+        },
+        {
+          "word": "is",
+          "start": 20.4,
+          "end": 20.68
+        },
+        {
+          "word": "the",
+          "start": 20.68,
+          "end": 20.8
+        },
+        {
+          "word": "identity",
+          "start": 20.8,
+          "end": 21.2
+        },
+        {
+          "word": "you're",
+          "start": 21.2,
+          "end": 21.44
+        },
+        {
+          "word": "looking",
+          "start": 21.44,
+          "end": 21.66
+        },
+        {
+          "word": "for.",
+          "start": 21.66,
+          "end": 21.96
+        }
+      ]
+    },
+    {
+      "scene": "scene_13",
+      "file": "audio/en/scene_13.mp3",
+      "duration": 36.873,
+      "text": "Beautiful theory, but how about reality? In the U.S. government's Tough FERET test, EBGM was given exactly one image per person in the database. The results? Same frontal pose, 98%. Same profile pose, mirrored left-right, 84%. Same half-profile angle, 57%. But if the gallery is frontal while the probe is turned at an angle, it drops sharply to just 18%. Clearly, EBGM is king at handling changes in expression or lighting, but large 3D rotation remains its Achilles heel.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.1,
+          "text": "Beautiful theory, but how about reality?"
+        },
+        {
+          "start": 2.74,
+          "end": 5.5,
+          "text": "In the U.S. government's Tough FERET test,"
+        },
+        {
+          "start": 5.98,
+          "end": 9.72,
+          "text": "EBGM was given exactly one image per person in the database."
+        },
+        {
+          "start": 10.34,
+          "end": 11.16,
+          "text": "The results?"
+        },
+        {
+          "start": 11.58,
+          "end": 14.24,
+          "text": "Same frontal pose, 98%."
+        },
+        {
+          "start": 14.24,
+          "end": 19.6,
+          "text": "Same profile pose, mirrored left-right, 84%."
+        },
+        {
+          "start": 19.6,
+          "end": 22.48,
+          "text": "Same half-profile angle, 57%."
+        },
+        {
+          "start": 22.48,
+          "end": 25.56,
+          "text": "But if the gallery is frontal while the probe is turned at an angle,"
+        },
+        {
+          "start": 25.8,
+          "end": 28.1,
+          "text": "it drops sharply to just 18%."
+        },
+        {
+          "start": 28.1,
+          "end": 33.22,
+          "text": "Clearly, EBGM is king at handling changes in expression or lighting,"
+        },
+        {
+          "start": 33.54,
+          "end": 36.38,
+          "text": "but large 3D rotation remains its Achilles heel."
+        }
+      ],
+      "words": [
+        {
+          "word": "Beautiful",
+          "start": 0.0,
+          "end": 0.34
+        },
+        {
+          "word": "theory,",
+          "start": 0.34,
+          "end": 0.66
+        },
+        {
+          "word": "but",
+          "start": 0.9,
+          "end": 1.26
+        },
+        {
+          "word": "how",
+          "start": 1.26,
+          "end": 1.4
+        },
+        {
+          "word": "about",
+          "start": 1.4,
+          "end": 1.6
+        },
+        {
+          "word": "reality?",
+          "start": 1.6,
+          "end": 2.1
+        },
+        {
+          "word": "In",
+          "start": 2.74,
+          "end": 3.4
+        },
+        {
+          "word": "the",
+          "start": 3.4,
+          "end": 3.5
+        },
+        {
+          "word": "U",
+          "start": 3.5,
+          "end": 3.68
+        },
+        {
+          "word": ".S.",
+          "start": 3.68,
+          "end": 3.84
+        },
+        {
+          "word": "government's",
+          "start": 4.22,
+          "end": 4.4
+        },
+        {
+          "word": "Tough",
+          "start": 4.4,
+          "end": 4.66
+        },
+        {
+          "word": "Ferret",
+          "start": 4.66,
+          "end": 5.04
+        },
+        {
+          "word": "test,",
+          "start": 5.04,
+          "end": 5.5
+        },
+        {
+          "word": "EBGM",
+          "start": 5.98,
+          "end": 6.62
+        },
+        {
+          "word": "was",
+          "start": 6.62,
+          "end": 6.9
+        },
+        {
+          "word": "given",
+          "start": 6.9,
+          "end": 7.1
+        },
+        {
+          "word": "exactly",
+          "start": 7.1,
+          "end": 7.54
+        },
+        {
+          "word": "one",
+          "start": 7.54,
+          "end": 7.94
+        },
+        {
+          "word": "image",
+          "start": 7.94,
+          "end": 8.34
+        },
+        {
+          "word": "per",
+          "start": 8.34,
+          "end": 8.6
+        },
+        {
+          "word": "person",
+          "start": 8.6,
+          "end": 9.02
+        },
+        {
+          "word": "in",
+          "start": 9.02,
+          "end": 9.24
+        },
+        {
+          "word": "the",
+          "start": 9.24,
+          "end": 9.34
+        },
+        {
+          "word": "database.",
+          "start": 9.34,
+          "end": 9.72
+        },
+        {
+          "word": "The",
+          "start": 10.34,
+          "end": 10.84
+        },
+        {
+          "word": "results?",
+          "start": 10.84,
+          "end": 11.16
+        },
+        {
+          "word": "Same",
+          "start": 11.58,
+          "end": 12.18
+        },
+        {
+          "word": "frontal",
+          "start": 12.18,
+          "end": 12.5
+        },
+        {
+          "word": "pose,",
+          "start": 12.5,
+          "end": 13.02
+        },
+        {
+          "word": "98%.",
+          "start": 13.3,
+          "end": 14.24
+        },
+        {
+          "word": "Same",
+          "start": 14.24,
+          "end": 15.54
+        },
+        {
+          "word": "profile",
+          "start": 15.54,
+          "end": 15.88
+        },
+        {
+          "word": "pose,",
+          "start": 15.88,
+          "end": 16.46
+        },
+        {
+          "word": "mirrored",
+          "start": 16.92,
+          "end": 17.4
+        },
+        {
+          "word": "left",
+          "start": 17.4,
+          "end": 17.62
+        },
+        {
+          "word": "-right,",
+          "start": 17.62,
+          "end": 17.9
+        },
+        {
+          "word": "84%.",
+          "start": 18.52,
+          "end": 19.6
+        },
+        {
+          "word": "Same",
+          "start": 19.6,
+          "end": 20.24
+        },
+        {
+          "word": "half",
+          "start": 20.24,
+          "end": 20.46
+        },
+        {
+          "word": "-profile",
+          "start": 20.46,
+          "end": 20.9
+        },
+        {
+          "word": "angle,",
+          "start": 20.9,
+          "end": 21.2
+        },
+        {
+          "word": "57%.",
+          "start": 21.4,
+          "end": 22.48
+        },
+        {
+          "word": "But",
+          "start": 22.48,
+          "end": 22.88
+        },
+        {
+          "word": "if",
+          "start": 22.88,
+          "end": 22.98
+        },
+        {
+          "word": "the",
+          "start": 22.98,
+          "end": 23.08
+        },
+        {
+          "word": "gallery",
+          "start": 23.08,
+          "end": 23.42
+        },
+        {
+          "word": "is",
+          "start": 23.42,
+          "end": 23.64
+        },
+        {
+          "word": "frontal",
+          "start": 23.64,
+          "end": 23.98
+        },
+        {
+          "word": "while",
+          "start": 23.98,
+          "end": 24.2
+        },
+        {
+          "word": "the",
+          "start": 24.2,
+          "end": 24.32
+        },
+        {
+          "word": "probe",
+          "start": 24.32,
+          "end": 24.58
+        },
+        {
+          "word": "is",
+          "start": 24.58,
+          "end": 24.74
+        },
+        {
+          "word": "turned",
+          "start": 24.74,
+          "end": 24.96
+        },
+        {
+          "word": "at",
+          "start": 24.96,
+          "end": 25.12
+        },
+        {
+          "word": "an",
+          "start": 25.12,
+          "end": 25.22
+        },
+        {
+          "word": "angle,",
+          "start": 25.22,
+          "end": 25.56
+        },
+        {
+          "word": "it",
+          "start": 25.8,
+          "end": 26.1
+        },
+        {
+          "word": "drops",
+          "start": 26.1,
+          "end": 26.36
+        },
+        {
+          "word": "sharply",
+          "start": 26.36,
+          "end": 26.74
+        },
+        {
+          "word": "to",
+          "start": 26.74,
+          "end": 26.92
+        },
+        {
+          "word": "just",
+          "start": 26.92,
+          "end": 27.14
+        },
+        {
+          "word": "18%.",
+          "start": 27.14,
+          "end": 28.1
+        },
+        {
+          "word": "Clearly,",
+          "start": 28.1,
+          "end": 29.34
+        },
+        {
+          "word": "EBGM",
+          "start": 30.02,
+          "end": 30.62
+        },
+        {
+          "word": "is",
+          "start": 30.62,
+          "end": 30.9
+        },
+        {
+          "word": "king",
+          "start": 30.9,
+          "end": 31.18
+        },
+        {
+          "word": "at",
+          "start": 31.18,
+          "end": 31.34
+        },
+        {
+          "word": "handling",
+          "start": 31.34,
+          "end": 31.66
+        },
+        {
+          "word": "changes",
+          "start": 31.66,
+          "end": 32.1
+        },
+        {
+          "word": "in",
+          "start": 32.1,
+          "end": 32.28
+        },
+        {
+          "word": "expression",
+          "start": 32.28,
+          "end": 32.7
+        },
+        {
+          "word": "or",
+          "start": 32.7,
+          "end": 32.92
+        },
+        {
+          "word": "lighting,",
+          "start": 32.92,
+          "end": 33.22
+        },
+        {
+          "word": "but",
+          "start": 33.54,
+          "end": 33.8
+        },
+        {
+          "word": "large",
+          "start": 33.8,
+          "end": 34.12
+        },
+        {
+          "word": "3D",
+          "start": 34.12,
+          "end": 34.48
+        },
+        {
+          "word": "rotation",
+          "start": 34.48,
+          "end": 34.96
+        },
+        {
+          "word": "remains",
+          "start": 34.96,
+          "end": 35.5
+        },
+        {
+          "word": "its",
+          "start": 35.5,
+          "end": 35.7
+        },
+        {
+          "word": "Achilles",
+          "start": 35.7,
+          "end": 36.04
+        },
+        {
+          "word": "heel.",
+          "start": 36.04,
+          "end": 36.38
+        }
+      ]
+    },
+    {
+      "scene": "scene_14",
+      "file": "audio/en/scene_14.mp3",
+      "duration": 44.443,
+      "text": "However, at small rotation angles, 11 degrees, 22 degrees, thanks to the graph's flexibility, accuracy holds from 94 down to 88%. And is the phase of the wave really necessary? Experiments show drop phase and landmark localization drifts by over 5.2 pixels, dragging recognition down to 67. Keep phase. Error is only 1.6 pixels, and recognition jumps to 88. Phase is the anchor that saves the whole system. On top of that, separating extraction from matching makes EBGM about 1,000 times faster than its predecessor architectures. Fast enough even for large databases.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.54,
+          "text": "However, at small rotation angles, 11 degrees, 22 degrees,"
+        },
+        {
+          "start": 4.88,
+          "end": 10.02,
+          "text": "thanks to the graph's flexibility, accuracy holds from 94 down to 88%."
+        },
+        {
+          "start": 10.02,
+          "end": 13.12,
+          "text": "And is the phase of the wave really necessary?"
+        },
+        {
+          "start": 14.12,
+          "end": 20.5,
+          "text": "Experiments show drop phase and landmark localization drifts by over 5.2 pixels,"
+        },
+        {
+          "start": 20.92,
+          "end": 23.06,
+          "text": "dragging recognition down to 67."
+        },
+        {
+          "start": 23.82,
+          "end": 29.94,
+          "text": "Keep phase. Error is only 1.6 pixels, and recognition jumps to 88."
+        },
+        {
+          "start": 30.52,
+          "end": 33.1,
+          "text": "Phase is the anchor that saves the whole system."
+        },
+        {
+          "start": 33.74,
+          "end": 39.62,
+          "text": "On top of that, separating extraction from matching makes EBGM about 1,000 times faster"
+        },
+        {
+          "start": 39.62,
+          "end": 43.66,
+          "text": "than its predecessor architectures. Fast enough even for large databases."
+        }
+      ],
+      "words": [
+        {
+          "word": "However,",
+          "start": 0.0,
+          "end": 0.26
+        },
+        {
+          "word": "at",
+          "start": 0.58,
+          "end": 0.72
+        },
+        {
+          "word": "small",
+          "start": 0.72,
+          "end": 1.0
+        },
+        {
+          "word": "rotation",
+          "start": 1.0,
+          "end": 1.46
+        },
+        {
+          "word": "angles,",
+          "start": 1.46,
+          "end": 2.0
+        },
+        {
+          "word": "11",
+          "start": 2.18,
+          "end": 2.66
+        },
+        {
+          "word": "degrees,",
+          "start": 2.66,
+          "end": 3.04
+        },
+        {
+          "word": "22",
+          "start": 3.56,
+          "end": 3.92
+        },
+        {
+          "word": "degrees,",
+          "start": 3.92,
+          "end": 4.54
+        },
+        {
+          "word": "thanks",
+          "start": 4.88,
+          "end": 5.32
+        },
+        {
+          "word": "to",
+          "start": 5.32,
+          "end": 5.48
+        },
+        {
+          "word": "the",
+          "start": 5.48,
+          "end": 5.56
+        },
+        {
+          "word": "graph's",
+          "start": 5.56,
+          "end": 5.9
+        },
+        {
+          "word": "flexibility,",
+          "start": 5.9,
+          "end": 6.5
+        },
+        {
+          "word": "accuracy",
+          "start": 6.92,
+          "end": 7.56
+        },
+        {
+          "word": "holds",
+          "start": 7.56,
+          "end": 7.98
+        },
+        {
+          "word": "from",
+          "start": 7.98,
+          "end": 8.24
+        },
+        {
+          "word": "94",
+          "start": 8.24,
+          "end": 8.76
+        },
+        {
+          "word": "down",
+          "start": 8.76,
+          "end": 9.2
+        },
+        {
+          "word": "to",
+          "start": 9.2,
+          "end": 9.4
+        },
+        {
+          "word": "88%.",
+          "start": 9.4,
+          "end": 10.02
+        },
+        {
+          "word": "And",
+          "start": 10.02,
+          "end": 11.4
+        },
+        {
+          "word": "is",
+          "start": 11.4,
+          "end": 11.52
+        },
+        {
+          "word": "the",
+          "start": 11.52,
+          "end": 11.66
+        },
+        {
+          "word": "phase",
+          "start": 11.66,
+          "end": 11.88
+        },
+        {
+          "word": "of",
+          "start": 11.88,
+          "end": 12.02
+        },
+        {
+          "word": "the",
+          "start": 12.02,
+          "end": 12.12
+        },
+        {
+          "word": "wave",
+          "start": 12.12,
+          "end": 12.34
+        },
+        {
+          "word": "really",
+          "start": 12.34,
+          "end": 12.6
+        },
+        {
+          "word": "necessary?",
+          "start": 12.6,
+          "end": 13.12
+        },
+        {
+          "word": "Experiments",
+          "start": 14.12,
+          "end": 14.9
+        },
+        {
+          "word": "show",
+          "start": 14.9,
+          "end": 15.26
+        },
+        {
+          "word": "drop",
+          "start": 15.26,
+          "end": 16.26
+        },
+        {
+          "word": "phase",
+          "start": 16.26,
+          "end": 16.74
+        },
+        {
+          "word": "and",
+          "start": 16.74,
+          "end": 17.12
+        },
+        {
+          "word": "landmark",
+          "start": 17.12,
+          "end": 17.52
+        },
+        {
+          "word": "localization",
+          "start": 17.52,
+          "end": 18.28
+        },
+        {
+          "word": "drifts",
+          "start": 18.28,
+          "end": 18.62
+        },
+        {
+          "word": "by",
+          "start": 18.62,
+          "end": 18.88
+        },
+        {
+          "word": "over",
+          "start": 18.88,
+          "end": 19.18
+        },
+        {
+          "word": "5",
+          "start": 19.18,
+          "end": 19.56
+        },
+        {
+          "word": ".2",
+          "start": 19.56,
+          "end": 20.06
+        },
+        {
+          "word": "pixels,",
+          "start": 20.06,
+          "end": 20.5
+        },
+        {
+          "word": "dragging",
+          "start": 20.92,
+          "end": 21.36
+        },
+        {
+          "word": "recognition",
+          "start": 21.36,
+          "end": 21.94
+        },
+        {
+          "word": "down",
+          "start": 21.94,
+          "end": 22.3
+        },
+        {
+          "word": "to",
+          "start": 22.3,
+          "end": 22.48
+        },
+        {
+          "word": "67.",
+          "start": 22.48,
+          "end": 23.06
+        },
+        {
+          "word": "Keep",
+          "start": 23.82,
+          "end": 24.5
+        },
+        {
+          "word": "phase.",
+          "start": 24.5,
+          "end": 24.88
+        },
+        {
+          "word": "Error",
+          "start": 25.32,
+          "end": 26.0
+        },
+        {
+          "word": "is",
+          "start": 26.0,
+          "end": 26.18
+        },
+        {
+          "word": "only",
+          "start": 26.18,
+          "end": 26.4
+        },
+        {
+          "word": "1",
+          "start": 26.4,
+          "end": 26.66
+        },
+        {
+          "word": ".6",
+          "start": 26.66,
+          "end": 27.24
+        },
+        {
+          "word": "pixels,",
+          "start": 27.24,
+          "end": 27.66
+        },
+        {
+          "word": "and",
+          "start": 27.68,
+          "end": 28.46
+        },
+        {
+          "word": "recognition",
+          "start": 28.46,
+          "end": 29.0
+        },
+        {
+          "word": "jumps",
+          "start": 29.0,
+          "end": 29.38
+        },
+        {
+          "word": "to",
+          "start": 29.38,
+          "end": 29.56
+        },
+        {
+          "word": "88.",
+          "start": 29.56,
+          "end": 29.94
+        },
+        {
+          "word": "Phase",
+          "start": 30.52,
+          "end": 31.2
+        },
+        {
+          "word": "is",
+          "start": 31.2,
+          "end": 31.48
+        },
+        {
+          "word": "the",
+          "start": 31.48,
+          "end": 31.6
+        },
+        {
+          "word": "anchor",
+          "start": 31.6,
+          "end": 31.9
+        },
+        {
+          "word": "that",
+          "start": 31.9,
+          "end": 32.08
+        },
+        {
+          "word": "saves",
+          "start": 32.08,
+          "end": 32.4
+        },
+        {
+          "word": "the",
+          "start": 32.4,
+          "end": 32.54
+        },
+        {
+          "word": "whole",
+          "start": 32.54,
+          "end": 32.68
+        },
+        {
+          "word": "system.",
+          "start": 32.68,
+          "end": 33.1
+        },
+        {
+          "word": "On",
+          "start": 33.74,
+          "end": 34.36
+        },
+        {
+          "word": "top",
+          "start": 34.36,
+          "end": 34.54
+        },
+        {
+          "word": "of",
+          "start": 34.54,
+          "end": 34.68
+        },
+        {
+          "word": "that,",
+          "start": 34.68,
+          "end": 34.94
+        },
+        {
+          "word": "separating",
+          "start": 35.44,
+          "end": 35.86
+        },
+        {
+          "word": "extraction",
+          "start": 35.86,
+          "end": 36.36
+        },
+        {
+          "word": "from",
+          "start": 36.36,
+          "end": 36.7
+        },
+        {
+          "word": "matching",
+          "start": 36.7,
+          "end": 37.04
+        },
+        {
+          "word": "makes",
+          "start": 37.04,
+          "end": 37.46
+        },
+        {
+          "word": "EBGM",
+          "start": 37.46,
+          "end": 38.1
+        },
+        {
+          "word": "about",
+          "start": 38.1,
+          "end": 38.44
+        },
+        {
+          "word": "1",
+          "start": 38.44,
+          "end": 38.58
+        },
+        {
+          "word": ",000",
+          "start": 38.58,
+          "end": 38.92
+        },
+        {
+          "word": "times",
+          "start": 38.92,
+          "end": 39.14
+        },
+        {
+          "word": "faster",
+          "start": 39.14,
+          "end": 39.62
+        },
+        {
+          "word": "than",
+          "start": 39.62,
+          "end": 39.84
+        },
+        {
+          "word": "its",
+          "start": 39.84,
+          "end": 40.0
+        },
+        {
+          "word": "predecessor",
+          "start": 40.0,
+          "end": 40.46
+        },
+        {
+          "word": "architectures.",
+          "start": 40.46,
+          "end": 41.32
+        },
+        {
+          "word": "Fast",
+          "start": 41.66,
+          "end": 42.34
+        },
+        {
+          "word": "enough",
+          "start": 42.34,
+          "end": 42.6
+        },
+        {
+          "word": "even",
+          "start": 42.6,
+          "end": 42.82
+        },
+        {
+          "word": "for",
+          "start": 42.82,
+          "end": 43.04
+        },
+        {
+          "word": "large",
+          "start": 43.04,
+          "end": 43.32
+        },
+        {
+          "word": "databases.",
+          "start": 43.32,
+          "end": 43.66
+        }
+      ]
+    },
+    {
+      "scene": "scene_15",
+      "file": "audio/en/scene_15.mp3",
+      "duration": 35.527,
+      "text": "Zoom out, and EBGM solves a broad class of problems. In-class recognition under variants, whether human faces, animals, or vehicles. Unlike PCA, which is wrecked across the whole image by a single pair of sunglasses, EBGM compartmentalizes risk. Glasses? Only the eye jets are disturbed. The rest stay safe. True, it has limits. Weak beyond 22 degrees of rotation. Fragile when landmarks are occluded. But as an algorithm that needs no massive training, EBGM did exceptionally well.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.9,
+          "text": "Zoom out, and EBGM solves a broad class of problems."
+        },
+        {
+          "start": 4.44,
+          "end": 9.98,
+          "text": "In-class recognition under variants, whether human faces, animals, or vehicles."
+        },
+        {
+          "start": 10.68,
+          "end": 15.1,
+          "text": "Unlike PCA, which is wrecked across the whole image by a single pair of sunglasses,"
+        },
+        {
+          "start": 15.82,
+          "end": 18.04,
+          "text": "EBGM compartmentalizes risk."
+        },
+        {
+          "start": 18.5,
+          "end": 21.34,
+          "text": "Glasses? Only the eye jets are disturbed."
+        },
+        {
+          "start": 21.72,
+          "end": 23.2,
+          "text": "The rest stay safe."
+        },
+        {
+          "start": 23.68,
+          "end": 25.02,
+          "text": "True, it has limits."
+        },
+        {
+          "start": 25.36,
+          "end": 27.54,
+          "text": "Weak beyond 22 degrees of rotation."
+        },
+        {
+          "start": 27.9,
+          "end": 29.74,
+          "text": "Fragile when landmarks are occluded."
+        },
+        {
+          "start": 30.0,
+          "end": 35.12,
+          "text": "But as an algorithm that needs no massive training, EBGM did exceptionally well."
+        }
+      ],
+      "words": [
+        {
+          "word": "Zoom",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": "out,",
+          "start": 0.32,
+          "end": 0.64
+        },
+        {
+          "word": "and",
+          "start": 0.82,
+          "end": 1.28
+        },
+        {
+          "word": "EBGM",
+          "start": 1.28,
+          "end": 1.92
+        },
+        {
+          "word": "solves",
+          "start": 1.92,
+          "end": 2.42
+        },
+        {
+          "word": "a",
+          "start": 2.42,
+          "end": 2.56
+        },
+        {
+          "word": "broad",
+          "start": 2.56,
+          "end": 2.86
+        },
+        {
+          "word": "class",
+          "start": 2.86,
+          "end": 3.18
+        },
+        {
+          "word": "of",
+          "start": 3.18,
+          "end": 3.36
+        },
+        {
+          "word": "problems.",
+          "start": 3.36,
+          "end": 3.9
+        },
+        {
+          "word": "In",
+          "start": 4.44,
+          "end": 4.8
+        },
+        {
+          "word": "-class",
+          "start": 4.8,
+          "end": 5.1
+        },
+        {
+          "word": "recognition",
+          "start": 5.1,
+          "end": 5.66
+        },
+        {
+          "word": "under",
+          "start": 5.66,
+          "end": 6.04
+        },
+        {
+          "word": "variants,",
+          "start": 6.04,
+          "end": 6.6
+        },
+        {
+          "word": "whether",
+          "start": 7.0,
+          "end": 7.42
+        },
+        {
+          "word": "human",
+          "start": 7.42,
+          "end": 7.8
+        },
+        {
+          "word": "faces,",
+          "start": 7.8,
+          "end": 8.24
+        },
+        {
+          "word": "animals,",
+          "start": 8.68,
+          "end": 9.26
+        },
+        {
+          "word": "or",
+          "start": 9.34,
+          "end": 9.5
+        },
+        {
+          "word": "vehicles.",
+          "start": 9.5,
+          "end": 9.98
+        },
+        {
+          "word": "Unlike",
+          "start": 10.68,
+          "end": 11.22
+        },
+        {
+          "word": "PCA,",
+          "start": 11.22,
+          "end": 11.86
+        },
+        {
+          "word": "which",
+          "start": 12.12,
+          "end": 12.22
+        },
+        {
+          "word": "is",
+          "start": 12.22,
+          "end": 12.36
+        },
+        {
+          "word": "wrecked",
+          "start": 12.36,
+          "end": 12.64
+        },
+        {
+          "word": "across",
+          "start": 12.64,
+          "end": 12.88
+        },
+        {
+          "word": "the",
+          "start": 12.88,
+          "end": 13.1
+        },
+        {
+          "word": "whole",
+          "start": 13.1,
+          "end": 13.3
+        },
+        {
+          "word": "image",
+          "start": 13.3,
+          "end": 13.6
+        },
+        {
+          "word": "by",
+          "start": 13.6,
+          "end": 13.8
+        },
+        {
+          "word": "a",
+          "start": 13.8,
+          "end": 13.94
+        },
+        {
+          "word": "single",
+          "start": 13.94,
+          "end": 14.2
+        },
+        {
+          "word": "pair",
+          "start": 14.2,
+          "end": 14.42
+        },
+        {
+          "word": "of",
+          "start": 14.42,
+          "end": 14.56
+        },
+        {
+          "word": "sunglasses,",
+          "start": 14.56,
+          "end": 15.1
+        },
+        {
+          "word": "EBGM",
+          "start": 15.82,
+          "end": 16.52
+        },
+        {
+          "word": "compartmentalizes",
+          "start": 16.52,
+          "end": 17.52
+        },
+        {
+          "word": "risk.",
+          "start": 17.52,
+          "end": 18.04
+        },
+        {
+          "word": "Glasses?",
+          "start": 18.5,
+          "end": 19.08
+        },
+        {
+          "word": "Only",
+          "start": 19.6,
+          "end": 20.04
+        },
+        {
+          "word": "the",
+          "start": 20.04,
+          "end": 20.22
+        },
+        {
+          "word": "eye",
+          "start": 20.22,
+          "end": 20.44
+        },
+        {
+          "word": "jets",
+          "start": 20.44,
+          "end": 20.66
+        },
+        {
+          "word": "are",
+          "start": 20.66,
+          "end": 20.86
+        },
+        {
+          "word": "disturbed.",
+          "start": 20.86,
+          "end": 21.34
+        },
+        {
+          "word": "The",
+          "start": 21.72,
+          "end": 22.08
+        },
+        {
+          "word": "rest",
+          "start": 22.08,
+          "end": 22.42
+        },
+        {
+          "word": "stay",
+          "start": 22.42,
+          "end": 22.78
+        },
+        {
+          "word": "safe.",
+          "start": 22.78,
+          "end": 23.2
+        },
+        {
+          "word": "True,",
+          "start": 23.68,
+          "end": 24.1
+        },
+        {
+          "word": "it",
+          "start": 24.34,
+          "end": 24.42
+        },
+        {
+          "word": "has",
+          "start": 24.42,
+          "end": 24.6
+        },
+        {
+          "word": "limits.",
+          "start": 24.6,
+          "end": 25.02
+        },
+        {
+          "word": "Weak",
+          "start": 25.36,
+          "end": 25.78
+        },
+        {
+          "word": "beyond",
+          "start": 25.78,
+          "end": 26.1
+        },
+        {
+          "word": "22",
+          "start": 26.1,
+          "end": 26.56
+        },
+        {
+          "word": "degrees",
+          "start": 26.56,
+          "end": 26.94
+        },
+        {
+          "word": "of",
+          "start": 26.94,
+          "end": 27.12
+        },
+        {
+          "word": "rotation.",
+          "start": 27.12,
+          "end": 27.54
+        },
+        {
+          "word": "Fragile",
+          "start": 27.9,
+          "end": 28.58
+        },
+        {
+          "word": "when",
+          "start": 28.58,
+          "end": 28.78
+        },
+        {
+          "word": "landmarks",
+          "start": 28.78,
+          "end": 29.28
+        },
+        {
+          "word": "are",
+          "start": 29.28,
+          "end": 29.38
+        },
+        {
+          "word": "occluded.",
+          "start": 29.38,
+          "end": 29.74
+        },
+        {
+          "word": "But",
+          "start": 30.0,
+          "end": 30.72
+        },
+        {
+          "word": "as",
+          "start": 30.72,
+          "end": 30.92
+        },
+        {
+          "word": "an",
+          "start": 30.92,
+          "end": 31.02
+        },
+        {
+          "word": "algorithm",
+          "start": 31.02,
+          "end": 31.44
+        },
+        {
+          "word": "that",
+          "start": 31.44,
+          "end": 31.78
+        },
+        {
+          "word": "needs",
+          "start": 31.78,
+          "end": 32.06
+        },
+        {
+          "word": "no",
+          "start": 32.06,
+          "end": 32.26
+        },
+        {
+          "word": "massive",
+          "start": 32.26,
+          "end": 32.58
+        },
+        {
+          "word": "training,",
+          "start": 32.58,
+          "end": 32.98
+        },
+        {
+          "word": "EBGM",
+          "start": 33.32,
+          "end": 33.92
+        },
+        {
+          "word": "did",
+          "start": 33.92,
+          "end": 34.16
+        },
+        {
+          "word": "exceptionally",
+          "start": 34.16,
+          "end": 34.7
+        },
+        {
+          "word": "well.",
+          "start": 34.7,
+          "end": 35.12
+        }
+      ]
+    },
+    {
+      "scene": "scene_16",
+      "file": "audio/en/scene_16.mp3",
+      "duration": 24.056,
+      "text": "Elastic bunch graph matching is a symphony of local signal processing, wavelets, and spatial geometry graphs. Although deep learning now wears the crown, EBGM's philosophy of elastic landmarks still lives on in modern face detection architectures, local, elastic, general. Thank you for watching. See you in the next algorithm video.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.4,
+          "text": "Elastic bunch graph matching is a symphony"
+        },
+        {
+          "start": 2.4,
+          "end": 3.92,
+          "text": "of local signal processing,"
+        },
+        {
+          "start": 4.3,
+          "end": 7.42,
+          "text": "wavelets, and spatial geometry graphs."
+        },
+        {
+          "start": 7.94,
+          "end": 10.22,
+          "text": "Although deep learning now wears the crown,"
+        },
+        {
+          "start": 11.06,
+          "end": 13.86,
+          "text": "EBGM's philosophy of elastic landmarks"
+        },
+        {
+          "start": 13.86,
+          "end": 16.62,
+          "text": "still lives on in modern face detection architectures,"
+        },
+        {
+          "start": 16.96,
+          "end": 19.16,
+          "text": "local, elastic, general."
+        },
+        {
+          "start": 19.66,
+          "end": 20.8,
+          "text": "Thank you for watching."
+        },
+        {
+          "start": 21.46,
+          "end": 23.46,
+          "text": "See you in the next algorithm video."
+        }
+      ],
+      "words": [
+        {
+          "word": "Elastic",
+          "start": 0.0,
+          "end": 0.46
+        },
+        {
+          "word": "bunch",
+          "start": 0.46,
+          "end": 0.72
+        },
+        {
+          "word": "graph",
+          "start": 0.72,
+          "end": 1.12
+        },
+        {
+          "word": "matching",
+          "start": 1.12,
+          "end": 1.54
+        },
+        {
+          "word": "is",
+          "start": 1.54,
+          "end": 1.82
+        },
+        {
+          "word": "a",
+          "start": 1.82,
+          "end": 1.94
+        },
+        {
+          "word": "symphony",
+          "start": 1.94,
+          "end": 2.4
+        },
+        {
+          "word": "of",
+          "start": 2.4,
+          "end": 2.66
+        },
+        {
+          "word": "local",
+          "start": 2.66,
+          "end": 2.98
+        },
+        {
+          "word": "signal",
+          "start": 2.98,
+          "end": 3.34
+        },
+        {
+          "word": "processing,",
+          "start": 3.34,
+          "end": 3.92
+        },
+        {
+          "word": "wavelets,",
+          "start": 4.3,
+          "end": 5.1
+        },
+        {
+          "word": "and",
+          "start": 5.34,
+          "end": 5.56
+        },
+        {
+          "word": "spatial",
+          "start": 5.56,
+          "end": 5.88
+        },
+        {
+          "word": "geometry",
+          "start": 5.88,
+          "end": 6.5
+        },
+        {
+          "word": "chass",
+          "start": 6.5,
+          "end": 7.02
+        },
+        {
+          "word": "graphs.",
+          "start": 7.02,
+          "end": 7.42
+        },
+        {
+          "word": "Although",
+          "start": 7.94,
+          "end": 8.62
+        },
+        {
+          "word": "deep",
+          "start": 8.62,
+          "end": 8.86
+        },
+        {
+          "word": "learning",
+          "start": 8.86,
+          "end": 9.16
+        },
+        {
+          "word": "now",
+          "start": 9.16,
+          "end": 9.48
+        },
+        {
+          "word": "wears",
+          "start": 9.48,
+          "end": 9.78
+        },
+        {
+          "word": "the",
+          "start": 9.78,
+          "end": 9.9
+        },
+        {
+          "word": "crown,",
+          "start": 9.9,
+          "end": 10.22
+        },
+        {
+          "word": "EBGM's",
+          "start": 11.06,
+          "end": 11.74
+        },
+        {
+          "word": "philosophy",
+          "start": 11.74,
+          "end": 12.26
+        },
+        {
+          "word": "of",
+          "start": 12.26,
+          "end": 12.6
+        },
+        {
+          "word": "elastic",
+          "start": 12.6,
+          "end": 13.06
+        },
+        {
+          "word": "landmarks",
+          "start": 13.06,
+          "end": 13.86
+        },
+        {
+          "word": "still",
+          "start": 13.86,
+          "end": 14.04
+        },
+        {
+          "word": "lives",
+          "start": 14.04,
+          "end": 14.34
+        },
+        {
+          "word": "on",
+          "start": 14.34,
+          "end": 14.58
+        },
+        {
+          "word": "in",
+          "start": 14.58,
+          "end": 14.74
+        },
+        {
+          "word": "modern",
+          "start": 14.74,
+          "end": 15.02
+        },
+        {
+          "word": "face",
+          "start": 15.02,
+          "end": 15.36
+        },
+        {
+          "word": "detection",
+          "start": 15.36,
+          "end": 15.78
+        },
+        {
+          "word": "architectures,",
+          "start": 15.78,
+          "end": 16.62
+        },
+        {
+          "word": "local,",
+          "start": 16.96,
+          "end": 17.58
+        },
+        {
+          "word": "elastic,",
+          "start": 17.84,
+          "end": 18.36
+        },
+        {
+          "word": "general.",
+          "start": 18.76,
+          "end": 19.16
+        },
+        {
+          "word": "Thank",
+          "start": 19.66,
+          "end": 20.2
+        },
+        {
+          "word": "you",
+          "start": 20.2,
+          "end": 20.34
+        },
+        {
+          "word": "for",
+          "start": 20.34,
+          "end": 20.46
+        },
+        {
+          "word": "watching.",
+          "start": 20.46,
+          "end": 20.8
+        },
+        {
+          "word": "See",
+          "start": 21.46,
+          "end": 22.14
+        },
+        {
+          "word": "you",
+          "start": 22.14,
+          "end": 22.26
+        },
+        {
+          "word": "in",
+          "start": 22.26,
+          "end": 22.36
+        },
+        {
+          "word": "the",
+          "start": 22.36,
+          "end": 22.44
+        },
+        {
+          "word": "next",
+          "start": 22.44,
+          "end": 22.66
+        },
+        {
+          "word": "algorithm",
+          "start": 22.66,
+          "end": 23.06
+        },
+        {
+          "word": "video.",
+          "start": 23.06,
+          "end": 23.46
+        }
+      ]
+    }
+  ]
+}
