@@ -28,7 +28,6 @@ bằng thư viện [Manim Community](https://www.manim.community/).
 
 ```
 source/
-├── README.md            <- file này
 ├── requirements.txt     <- thư viện Python cần cài
 ├── assets/              <- ảnh khuôn mặt / hình minh họa các scene nạp vào
 └── ebgm/                <- project Manim (chạy từ trong đây)
