@@ -11,7 +11,7 @@ bằng thư viện [Manim Community](https://www.manim.community/).
 - **Bài báo gốc:** L. Wiskott, J.-M. Fellous, N. Krüger, C. von der Malsburg,
   *"Face Recognition by Elastic Bunch Graph Matching"*, IEEE Transactions on Pattern
   Analysis and Machine Intelligence (IEEE TPAMI), vol. 19, no. 7, pp. 775–779, 1997.
-- **Video:** xem `url.txt` (cùng cấp với thư mục `source/`).
+- **Video:** https://www.youtube.com/watch?v=9pMoKHhmf6w&t=21s 
 
 ## Thông tin sinh viên
 
